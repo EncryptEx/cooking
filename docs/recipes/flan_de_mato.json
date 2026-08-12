@@ -66,7 +66,7 @@
       "items": [
         {
           "ingredient": "sugar",
-          "value": 120,
+          "value": 100,
           "unit": "g",
           "id": "sugar"
         },
@@ -192,10 +192,10 @@
     },
     {
       "text": {
-        "en": "Bake at 180°C for about 25 minutes, until just set.",
-        "es": "Hornea a 180°C unos 25 minutos, hasta que estén cuajados.",
-        "cat": "Cou a 180°C uns 25 minuts, fins que estiguin quallats.",
-        "sv": "Grädda i 180°C i ca 25 minuter, tills de precis har stelnat."
+        "en": "Bake at 180°C for about 20 minutes, until just set.",
+        "es": "Hornea a 180°C unos 20 minutos, hasta que estén cuajados.",
+        "cat": "Cou a 180°C uns 20 minuts, fins que estiguin quallats.",
+        "sv": "Grädda i 180°C i ca 20 minuter, tills de precis har stelnat."
       },
       "oven": {
         "temperature": 180,
