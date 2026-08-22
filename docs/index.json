@@ -597,6 +597,30 @@
   },
   {
     "title": {
+      "en": "Tarta de Santiago",
+      "es": "Tarta de Santiago",
+      "cat": "Pastís de Santiago",
+      "sv": "Tarta de Santiago"
+    },
+    "categories": [
+      "desserts",
+      "baking"
+    ],
+    "path": "recipes/tarta_de_santiago.json",
+    "image": "/images/tarta_de_santiago/main.webp",
+    "author": "Arnau",
+    "development": false,
+    "ingredient_keys": [
+      "almond_flour",
+      "sugar",
+      "eggs",
+      "lemon_zest",
+      "butter",
+      "powdered_sugar"
+    ]
+  },
+  {
+    "title": {
       "en": "Tarte Tatin",
       "es": "Tarta Tatin",
       "cat": "Tarta Tatin"

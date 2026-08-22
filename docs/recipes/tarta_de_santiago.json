@@ -1,0 +1,177 @@
+{
+  "title": {
+    "en": "Tarta de Santiago",
+    "es": "Tarta de Santiago",
+    "cat": "Pastís de Santiago",
+    "sv": "Tarta de Santiago"
+  },
+  "author": "Arnau",
+  "categories": [
+    "desserts",
+    "baking"
+  ],
+  "image": "/images/tarta_de_santiago/main.webp",
+  "description": {
+    "en": "A classic Galician almond cake with a dense, marzipan-like crumb and bright lemon zest. Flourless, naturally gluten-free, and even better a day or two after baking under a dusting of powdered sugar.",
+    "es": "Una tarta de almendras gallega clásica, densa como el mazapán y con ralladura de limón. Sin harina, naturalmente sin gluten, y aún mejor pasados uno o dos días con azúcar glas por encima.",
+    "cat": "Un pastís d'ametlles gallec clàssic, dens com el massapà i amb ratlladura de llimona. Sense farina, naturalment sense gluten, i encara millor passat un o dos dies amb sucre glas per sobre.",
+    "sv": "En klassisk galicisk mandelkaka med tät, marsipanliknande smulor och citronskal. Mjölfri, naturligt glutenfri, och ännu godare efter en eller två dagar under ett lager florsocker."
+  },
+  "portion": {
+    "type": "area",
+    "shape": "circular",
+    "dimensions": {
+      "diameter": 15,
+      "unit": "cm"
+    }
+  },
+  "ingredients": [
+    {
+      "group": {
+        "en": "Cake",
+        "es": "Tarta",
+        "cat": "Pastís",
+        "sv": "Kaka"
+      },
+      "items": [
+        {
+          "ingredient": "almond_flour",
+          "value": 150,
+          "unit": "g",
+          "id": "almond_flour"
+        },
+        {
+          "ingredient": "sugar",
+          "value": 150,
+          "unit": "g",
+          "id": "sugar"
+        },
+        {
+          "ingredient": "eggs",
+          "value": 2,
+          "id": "eggs"
+        },
+        {
+          "ingredient": "lemon_zest",
+          "value": 0,
+          "unit": "to_taste",
+          "id": "lemon_zest"
+        },
+        {
+          "ingredient": "butter",
+          "value": 0,
+          "unit": "as_needed",
+          "text": {
+            "en": "for greasing the tin",
+            "es": "para engrasar el molde",
+            "cat": "per untar el motlle",
+            "sv": "för att smörja formen"
+          },
+          "id": "butter"
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Decoration",
+        "es": "Decoración",
+        "cat": "Decoració",
+        "sv": "Dekoration"
+      },
+      "items": [
+        {
+          "ingredient": "powdered_sugar",
+          "value": 0,
+          "unit": "as_needed",
+          "text": {
+            "en": "for dusting",
+            "es": "para espolvorear",
+            "cat": "per empolvorar",
+            "sv": "för pudring"
+          },
+          "id": "powdered_sugar"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "text": {
+        "en": "Preheat the oven to 180°C.",
+        "es": "Precalienta el horno a 180°C.",
+        "cat": "Preescalfa el forn a 180°C.",
+        "sv": "Förvärm ugnen till 180°C."
+      },
+      "oven": {
+        "temperature": 180,
+        "mode": "upper_lower"
+      }
+    },
+    {
+      "text": {
+        "en": "Beat the sugar with the eggs and lemon zest until the mixture turns pale and thick.",
+        "es": "Bate el azúcar con los huevos y la ralladura de limón hasta que la mezcla blanquee y espese.",
+        "cat": "Bat el sucre amb els ous i la ratlladura de llimona fins que la barreja blanquegi i espessi.",
+        "sv": "Vispa sockret med äggen och citronskalet tills blandningen blir ljus och tjock."
+      },
+      "ingredients": [
+        "sugar",
+        "eggs",
+        "lemon_zest"
+      ]
+    },
+    {
+      "text": {
+        "en": "Add the almond flour and mix until you get a firm, marzipan-like batter.",
+        "es": "Añade la harina de almendras y mezcla hasta obtener una masa firme, como de mazapán.",
+        "cat": "Afegeix la farina d'ametlles i barreja fins a obtenir una massa ferma, com de massapà.",
+        "sv": "Tillsätt mandelmjölet och blanda tills du får en fast, marsipanliknande smet."
+      },
+      "ingredients": [
+        "almond_flour"
+      ]
+    },
+    {
+      "text": {
+        "en": "Grease a 15 cm round tin with butter and pour in the batter, smoothing the top.",
+        "es": "Engrasa un molde redondo de 15 cm con mantequilla, vierte la mezcla y alisa la superficie.",
+        "cat": "Unta un motlle rodó de 15 cm amb mantega, aboca la barreja i allisa la superfície.",
+        "sv": "Smörj en rund form på 15 cm och häll i smeten. Jämna till ytan."
+      },
+      "ingredients": [
+        "butter"
+      ]
+    },
+    {
+      "text": {
+        "en": "Bake for about 35 minutes, until the top is golden. Timing depends on your oven — check that the surface is nicely browned.",
+        "es": "Hornea unos 35 minutos, hasta que la superficie esté dorada. El tiempo depende del horno: debe quedar bien dorada por encima.",
+        "cat": "Cou uns 35 minuts, fins que la superfície quedi daurada. El temps depèn del forn: ha de quedar ben daurada per sobre.",
+        "sv": "Grädda i ca 35 minuter, tills ytan är gyllenbrun. Tiden beror på ugnen — ytan ska vara fint brynt."
+      },
+      "oven": {
+        "temperature": 180,
+        "mode": "upper_lower"
+      }
+    },
+    {
+      "text": {
+        "en": "Leave the cake to cool in the tin, then turn it out and let it cool completely.",
+        "es": "Deja enfriar la tarta en el molde, desmóldala y déjala enfriar por completo.",
+        "cat": "Deixa refredar el pastís al motlle, desmotlla'l i deixa'l refredar del tot.",
+        "sv": "Låt kakan svalna i formen, stjälp sedan upp den och låt den svalna helt."
+      }
+    },
+    {
+      "text": {
+        "en": "Dust generously with powdered sugar before serving. It tastes even better after a day or two. Optionally, place a Cross of Saint James stencil on top before dusting for the traditional look.",
+        "es": "Espolvorea generosamente con azúcar glas antes de servir. Está aún más buena pasados uno o dos días. Opcional: coloca una plantilla de la Cruz de Santiago encima antes de espolvorear para el acabado tradicional.",
+        "cat": "Empolvora generosament amb sucre glas abans de servir. Encara és millor passat un o dos dies. Opcional: posa una plantilla de la Creu de Sant Jaume a sobre abans d'empolvorar per a l'acabat tradicional.",
+        "sv": "Pudra generöst med florsocker före servering. Den smakar ännu bättre efter en eller två dagar. Valfritt: lägg en Schablon med S:t Jakobs kors ovanpå före pudringen för det traditionella utseendet."
+      },
+      "ingredients": [
+        "powdered_sugar"
+      ]
+    }
+  ]
+}

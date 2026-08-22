@@ -14,7 +14,7 @@
   "description": {
     "en": "A classic French upside-down apple tart with caramelized apples and a buttery pastry crust. The apples are cooked in caramel before being topped with pastry and baked, then inverted to reveal the beautiful caramelized top.",
     "es": "Una tarta de manzana francesa clásica al revés con manzanas caramelizadas y una base de masa quebrada mantecosa. Las manzanas se cocinan en caramelo antes de cubrirse con la masa y hornearse, luego se voltea para revelar la hermosa parte superior caramelizada.",
-    "cat": "Una coca de poma francesa clàssica al revés amb pomes caramelitzades i una base de massa quebrada mantegosa. Les pomes es couen en caramel abans de cobrir-se amb la massa i fornar-se, després es dona la volta per revelar la bonica part superior caramelitzada."
+    "cat": "Una coca de poma francesa clàssica al revés amb pomes caramelitzades i una base de pasta brisa mantegosa. Les pomes es couen en caramel abans de cobrir-se amb la massa i enfornar-se, després es dona la volta per revelar la bonica part superior caramelitzada."
   },
   "portion": {
     "type": "area",
@@ -198,7 +198,7 @@
       "text": {
         "en": "Bake the tart for 25 minutes. If the pastry is not golden yet, switch to top heat and continue until golden.",
         "es": "Hornea la tarta 25 minutos. Si la masa no está dorada, activa el calor superior y continúa hasta que lo esté.",
-        "cat": "Forna la coca 25 minuts. Si la massa no està daurada, activa el calor superior i continua fins que ho estigui."
+        "cat": "Enforna la coca 25 minuts. Si la massa no està daurada, activa el calor superior i continua fins que ho estigui."
       },
       "oven": {
         "temperature": 180,
