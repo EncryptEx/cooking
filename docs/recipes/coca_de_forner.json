@@ -12,10 +12,10 @@
   ],
   "image": "/images/coca_de_forner/main.webp",
   "description": {
-    "en": "80% hydration dough with poolish, stretched thin to preserve the air bubbles. Topped with sugar and oil, then brushed with an anise glaze after baking.",
-    "es": "Masa al 80% de hidratación con poolish, estirada fina para conservar los alveolos. Se cubre con azúcar y aceite y, al salir del horno, se pincela con un almíbar de anís.",
-    "cat": "Massa al 80% d'hidratació amb poolish, estirada fina per conservar els alveols. Es cobreix amb sucre i oli i, en sortir del forn, es pinzella amb un almívar d'anís.",
-    "sv": "Deg med 80% hydrering och poolish, utdragen tunn för att bevara luftbubblorna. Toppas med socker och olja och penslas med en anisglasyr efter gräddning."
+    "en": "80% hydration dough with a mother dough (poolish), stretched thin to preserve the air bubbles. Topped with sugar and oil, then brushed with an anise glaze after baking.",
+    "es": "Masa al 80% de hidratación con masa madre (poolish), estirada fina para conservar los alveolos. Se cubre con azúcar y aceite y, al salir del horno, se pincela con un almíbar de anís.",
+    "cat": "Massa al 80% d'hidratació amb massa mare (poolish), estirada fina per conservar els alveols. Es cobreix amb sucre i oli i, en sortir del forn, es pinzella amb un almívar d'anís.",
+    "sv": "Deg med 80% hydrering och en modersdeg (poolish), utdragen tunn för att bevara luftbubblorna. Toppas med socker och olja och penslas med en anisglasyr efter gräddning."
   },
   "portion": {
     "type": "units",
@@ -24,10 +24,10 @@
   "ingredients": [
     {
       "group": {
-        "en": "Poolish (day before)",
-        "es": "Poolish (día anterior)",
-        "cat": "Poolish (dia anterior)",
-        "sv": "Poolish (dagen innan)"
+        "en": "Mother dough (poolish)",
+        "es": "Masa madre (poolish)",
+        "cat": "Massa mare (poolish)",
+        "sv": "Modersdeg (poolish)"
       },
       "items": [
         {
@@ -198,10 +198,10 @@
   "instructions": [
     {
       "text": {
-        "en": "The day before, prepare the poolish by mixing the water, flour, and dry yeast. Cover and refrigerate until the next day.",
-        "es": "El día anterior, prepara el poolish mezclando el agua, la harina y la levadura seca. Tápalo y déjalo en la nevera hasta el día siguiente.",
-        "cat": "El dia anterior, prepara el poolish barrejant l'aigua, la farina i el llevat sec. Tapar-lo i deixar-lo a la nevera fins l'endemà.",
-        "sv": "Dagen innan, förbered poolish genom att blanda vatten, mjöl och torrjäst. Täck och förvara i kylskåp till nästa dag."
+        "en": "The day before: make the mother dough (poolish) by mixing the water, flour, and dry yeast. Cover and refrigerate until the next day.",
+        "es": "El día anterior: prepara la masa madre (poolish) mezclando el agua, la harina y la levadura seca. Tápalo y déjalo en la nevera hasta el día siguiente.",
+        "cat": "El dia anterior: prepara la massa mare (poolish) barrejant l'aigua, la farina i el llevat sec. Tapa'l i deixa'l a la nevera fins l'endemà.",
+        "sv": "Dagen innan: gör modersdegen (poolish) genom att blanda vatten, mjöl och torrjäst. Täck och förvara i kylskåp till nästa dag."
       },
       "ingredients": [
         "poolish_water",
@@ -236,17 +236,17 @@
     },
     {
       "text": {
-        "en": "Take the poolish from the fridge. Mix the reserved water, salt, poolish, and sugar together first, then incorporate into the dough.",
-        "es": "Coge el poolish de la nevera. Mezcla primero el agua reservada, la sal, el poolish y el azúcar, y después incorpóralo a la masa.",
-        "cat": "Agafa el poolish de la nevera. Barreja primer l'aigua reservada, la sal, el poolish i el sucre, i després incorpora-ho a la massa.",
-        "sv": "Ta poolish från kylskåpet. Blanda först det reserverade vattnet, saltet, poolish och sockret, och blanda sedan in det i degen."
+        "en": "Take the mother dough (poolish) from the fridge. Mix the reserved water, salt, mother dough, and sugar together first, then incorporate into the dough.",
+        "es": "Saca la masa madre (poolish) de la nevera. Mezcla primero el agua reservada, la sal, la masa madre y el azúcar, y después incorpóralo a la masa.",
+        "cat": "Agafa la massa mare (poolish) de la nevera. Barreja primer l'aigua reservada, la sal, la massa mare i el sucre, i després incorpora-ho a la massa.",
+        "sv": "Ta modersdegen (poolish) från kylskåpet. Blanda först det reserverade vattnet, saltet, modersdegen och sockret, och blanda sedan in det i degen."
       },
       "thermomix": {
         "text": {
-          "en": "Mix the reserved water, salt, poolish, and sugar together in a bowl first. Add to the dough in the Thermomix and knead until incorporated.",
-          "es": "Mezcla primero el agua reservada, la sal, el poolish y el azúcar en un bol. Añádelo a la masa en la Thermomix y amasa hasta que esté incorporado.",
-          "cat": "Barreja primer l'aigua reservada, la sal, el poolish i el sucre en un bol. Afegeix-ho a la massa a la Thermomix i amassa fins que estigui incorporat.",
-          "sv": "Blanda först det reserverade vattnet, saltet, poolish och sockret i en skål. Tillsätt till degen i Thermomix och knåda tills det är inblandat."
+          "en": "Mix the reserved water, salt, mother dough (poolish), and sugar together in a bowl first. Add to the dough in the Thermomix and knead until incorporated.",
+          "es": "Mezcla primero el agua reservada, la sal, la masa madre (poolish) y el azúcar en un bol. Añádelo a la masa en la Thermomix y amasa hasta que esté incorporado.",
+          "cat": "Barreja primer l'aigua reservada, la sal, la massa mare (poolish) i el sucre en un bol. Afegeix-ho a la massa a la Thermomix i amassa fins que estigui incorporat.",
+          "sv": "Blanda först det reserverade vattnet, saltet, modersdegen (poolish) och sockret i en skål. Tillsätt till degen i Thermomix och knåda tills det är inblandat."
         },
         "settings": {
           "mode": "knead",
