@@ -78,7 +78,7 @@
     {
       "text": {
         "en": "Dice the vegetables and place them in a cooking pot. Cover with water until they are almost submerged, add the extra virgin olive oil and salt, and bring to a boil. Cook over medium heat for 20 minutes.",
-        "es": "Añadimos las verduras a dados en una olla para hervir, cubrimos con agua hasta que casi cubra las verduras, añadimos el aceite de oliva virgen extra, sal y cocinamos durante 20 minutos.",
+        "es": "Corta las verduras en dados y ponlas en una olla. Cúbrelas con agua hasta casi cubrirlas, añade el aceite de oliva virgen extra y la sal, y cocina a fuego medio durante 20 minutos.",
         "cat": "Afegim les verdures a daus en una olla per bullir, cobrim amb aigua fins que gairebé cobreixi les verdures, afegim l'oli d'oliva verge extra, sal i cuinem durant 20 minuts.",
         "sv": "Tärna grönsakerna och lägg dem i en kastrull. Täck med vatten tills grönsakerna nästan är under ytan, tillsätt extra jungfruolja och salt, och koka upp. Låt koka på medelvärme i 20 minuter."
       },
@@ -95,7 +95,7 @@
     {
       "text": {
         "en": "Dice the vegetables and place them in the Thermomix bowl. Cover with water until they are almost submerged, add the extra virgin olive oil and salt. Cook for 20 minutes at 100°C and Speed 2.",
-        "es": "Añadimos las verduras a dados en la Thermomix, cubrimos con agua hasta que casi cubra las verduras, añadimos el aceite de oliva virgen extra, sal y cocinamos 20 minutos a Temperatura 100 y Velocidad 2.",
+        "es": "Corta las verduras en dados y ponlas en el vaso de la Thermomix. Cúbrelas con agua hasta casi cubrirlas, añade el aceite de oliva virgen extra y la sal, y cocina 20 minutos a 100°C y velocidad 2.",
         "cat": "Afegim les verdures a daus a la Thermomix, cobrim amb aigua fins que gairebé cobreixi les verdures, afegim l'oli d'oliva verge extra, sal i cuinem 20 minuts a Temperatura 100 i Velocitat 2.",
         "sv": "Tärna grönsakerna och lägg dem i Thermomix-skålen. Täck med vatten tills grönsakerna nästan är under ytan, tillsätt extra jungfruolja och salt. Tillaga i 20 minuter på 100°C och hastighet 2."
       },
@@ -111,7 +111,7 @@
       "thermomix": {
         "text": {
           "en": "Add diced vegetables, olive oil, salt, and water to the bowl. Cook 20 min / 100°C / speed 2.",
-          "es": "Añadir las verduras a dados, el aceite, la sal y el agua al vaso. Programar 20 min / 100°C / velocidad 2.",
+          "es": "Añade las verduras en dados, el aceite, la sal y el agua al vaso. Programa 20 min / 100°C / velocidad 2.",
           "cat": "Afegir les verdures a daus, l'oli, la sal i l'aigua al got. Programar 20 min / 100°C / velocitat 2.",
           "sv": "Tillsätt tärnade grönsaker, olivolja, salt och vatten i skålen. Kör 20 min / 100°C / hastighet 2."
         },
@@ -126,7 +126,7 @@
     {
       "text": {
         "en": "After cooking, wait for the temperature to drop slightly. Blend thoroughly with a hand immersion blender until smooth, and serve hot.",
-        "es": "Pasado ese tiempo, esperamos a que reduzca la temperatura un poco, trituramos con una batidora de mano hasta conseguir una textura fina y servimos bien caliente.",
+        "es": "Pasado ese tiempo, espera a que baje un poco la temperatura, tritura con una batidora de mano hasta conseguir una textura fina y sirve bien caliente.",
         "cat": "Passat aquest temps, esperem que redueixi la temperatura un xic, triturem amb una batedora de mà fins a aconseguir una textura fina i servim ben calent.",
         "sv": "Efter kokningen, vänta tills temperaturen sjunker något. Mixa ordentligt med en stavmixer tills soppan är slät, och servera rykande het."
       },
@@ -136,7 +136,7 @@
     {
       "text": {
         "en": "After cooking, wait for the temperature to drop slightly. Blend for 4 minutes at Maximum Speed and serve hot.",
-        "es": "Pasado ese tiempo esperamos a que reduzca la temperatura un poco y trituramos cuatro minutos a Velocidad Máxima y servimos bien caliente.",
+        "es": "Pasado ese tiempo, espera a que baje un poco la temperatura, tritura cuatro minutos a velocidad máxima y sirve bien caliente.",
         "cat": "Passat aquest temps esperem que redueixi la temperatura un xic i triturem quatre minuts a Velocitat Màxima i servim ben calent.",
         "sv": "Efter kokningen, vänta tills temperaturen sjunker något. Mixa i 4 minuter på högsta hastighet och servera rykande het."
       },
@@ -145,7 +145,7 @@
       "thermomix": {
         "text": {
           "en": "Wait for the temperature to drop slightly, then blend for 4 min / speed 10.",
-          "es": "Esperar a que baje un poco la temperatura y triturar 4 min / velocidad 10.",
+          "es": "Espera a que baje un poco la temperatura y tritura 4 min / velocidad 10.",
           "cat": "Esperar que baixi un xic la temperatura i triturar 4 min / velocitat 10.",
           "sv": "Vänta tills temperaturen sjunker något, mixa sedan 4 min / hastighet 10."
         },

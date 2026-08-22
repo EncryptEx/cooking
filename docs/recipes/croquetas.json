@@ -204,7 +204,7 @@
     {
       "text": {
         "en": "Separate the fat from the ham and finely chop the meat into small pieces. Set aside.",
-        "es": "Separa la grasa del jamón de la carne y tritura la carne a trozos pequeños. Reservamos.",
+        "es": "Separa la grasa del jamón de la carne y tritura la carne en trozos pequeños. Reserva.",
         "cat": "Separa el greix del pernil de la carn i tritura la carn a trossos petits. Reservem.",
         "sv": "Separera fettet från skinkan och hacka köttet i små bitar. Ställ åt sidan."
       },
@@ -216,9 +216,9 @@
     {
       "text": {
         "en": "Shred the leftover roasted chicken (e.g., breast meat) into fine threads. The more threads you create, the meatier the croqueta will be. Be sure to include the roasting juices for extra flavor. Set aside.",
-        "es": "Desmenuzar las sobras de un pollo asado (por ejemplo las pechugas). Cuantos más hilos haya, más carnosa será la croqueta. También incluir el zumo del asado para dar más sabor. Reservamos.",
+        "es": "Desmenuza las sobras de un pollo asado (por ejemplo las pechugas). Cuantos más hilos haya, más carnosa será la croqueta. Incluye también el jugo del asado para dar más sabor. Reserva.",
         "cat": "Esmicolar les restes d'un pollastre rostit (per exemple el pit). Com més fils hi hagi, més carnosa serà la croqueta. També incloure el suc de la rostida per donar més gust. Reservem.",
-        "sv": "Riv resterna av rost kyckling (t.ex. bröstkött) i fina trådar. Ju mer trådar du skapar, desto köttigare blir kroketten. Se till att inkludera rostningssaften för extra smak. Ställ åt sidan."
+        "sv": "Riv resterna av en rostkyckling (t.ex. bröstköttet) i fina trådar. Ju fler trådar, desto köttigare blir kroketten. Ta gärna med stekskyn för mer smak. Ställ åt sidan."
       },
       "onlyForVariation": "pollo",
       "image": "/images/croquetas/1-pollo.webp",
@@ -229,7 +229,7 @@
     {
       "text": {
         "en": "Cut the mushrooms into very small squares.",
-        "es": "Cortar las setas a cuadrados muy pequeños.",
+        "es": "Corta las setas en cuadrados muy pequeños.",
         "cat": "Tallar els bolets a quadrats molt petits.",
         "sv": "Skär svampen i mycket små kvadrater."
       },
@@ -241,9 +241,9 @@
     {
       "text": {
         "en": "Sauté the mushrooms over high heat with olive oil. When they are golden, add butter to toast them. Finally, add salt and white pepper. The order is very important to enhance the flavor of the mushrooms. Set aside.",
-        "es": "Saltea las setas al fuego alto con aceite de oliva y cuando ya estén doradas añade mantequilla para que tosten. Al final, añadimos sal y pimienta blanca. Es muy importante el orden para realzar el gusto de las setas. Reservamos.",
+        "es": "Saltea las setas a fuego alto con aceite de oliva y, cuando ya estén doradas, añade mantequilla para que se tuesten. Al final, añade sal y pimienta blanca. El orden es muy importante para realzar el sabor de las setas. Reserva.",
         "cat": "Salteja els bolets a foc alt amb oli d'oliva i quan ja estiguin daurats afegeix mantega perquè es torrin. Al final, afegim sal i pebre blanc. És molt important l'ordre per realçar el gust dels bolets. Reservem.",
-        "sv": "Stek svampen på hög värme med olivolja. När den är guldgul, tillsätt smör för att rosta den. Slutligen, tillsätt salt och vitpeppar. Ordningen är mycket viktig för att förbättra smaken av svampen. Ställ åt sidan."
+        "sv": "Stek svampen på hög värme med olivolja. När den är gyllenbrun, tillsätt smör så att den rostas. Tillsätt slutligen salt och vitpeppar. Ordningen är viktig för att lyfta smaken. Ställ åt sidan."
       },
       "onlyForVariation": "setas",
       "ingredients": [
@@ -267,7 +267,7 @@
     {
       "text": {
         "en": "In a large pot, add butter with the ham fat. Once melted, add the diced onion.",
-        "es": "En una olla grande añadir mantequilla con la grasa del jamón y cuando esté derretida añade la cebolla troceada.",
+        "es": "En una olla grande, añade mantequilla con la grasa del jamón y, cuando esté derretida, añade la cebolla troceada.",
         "cat": "En una olla gran afegir mantega amb el greix del pernil i quan estigui fosa afegeix la ceba tallada.",
         "sv": "I en stor kastrull, tillsätt smör med skinkfettet. När det är smält, tillsätt den hackade löken."
       },
@@ -279,7 +279,7 @@
     {
       "text": {
         "en": "In a large pot, add butter. Once melted, add the diced onion.",
-        "es": "En una olla grande añadir mantequilla y cuando esté derretida añade la cebolla troceada.",
+        "es": "En una olla grande, añade mantequilla y, cuando esté derretida, añade la cebolla troceada.",
         "cat": "En una olla gran afegir mantega i quan estigui fosa afegeix la ceba tallada.",
         "sv": "I en stor kastrull, tillsätt smör. När det är smält, tillsätt den hackade löken."
       },
@@ -291,7 +291,7 @@
     {
       "text": {
         "en": "In a large pot, add butter. Once melted, add the diced onion.",
-        "es": "En una olla grande añadir mantequilla y cuando esté derretida añade la cebolla troceada.",
+        "es": "En una olla grande, añade mantequilla y, cuando esté derretida, añade la cebolla troceada.",
         "cat": "En una olla gran afegir mantega i quan estigui fosa afegeix la ceba tallada.",
         "sv": "I en stor kastrull, tillsätt smör. När det är smält, tillsätt den hackade löken."
       },
@@ -303,14 +303,14 @@
     {
       "text": {
         "en": "When the onion is translucent but not browned, add the flour and cook it so the flour cooks through (creating a roux).",
-        "es": "Cuando la cebolla esté pochada pero no marrón, añadir la harina y cocinar para que la harina se cueza (creando un roux).",
+        "es": "Cuando la cebolla esté pochada pero no dorada, añade la harina y cocínala para que se tueste (creando un roux).",
         "cat": "Quan la ceba estigui tova però no marró, afegir la farina i coure perquè la farina es cuini (creant un roux).",
         "sv": "När löken är genomskinlig men inte brunad, tillsätt mjölet och koka det så att mjölet kokar igenom (skapar en roux)."
       },
       "thermomix": {
         "text": {
           "en": "Add the flour and mix 3 min / 120°C / speed 2 to make a roux.",
-          "es": "Añadir la harina y mezclar 3 min / 120°C / velocidad 2 para hacer el roux.",
+          "es": "Añade la harina y mezcla 3 min / 120°C / velocidad 2 para hacer el roux.",
           "cat": "Afegir la farina i barrejar 3 min / 120°C / velocitat 2 per fer el roux.",
           "sv": "Tillsätt mjölet och mixa 3 min / 120°C / hastighet 2 för att göra en roux."
         },
@@ -328,14 +328,14 @@
     {
       "text": {
         "en": "Meanwhile, heat the milk in a separate pan.",
-        "es": "Al mismo tiempo calentar la leche.",
+        "es": "Al mismo tiempo, calienta la leche.",
         "cat": "Al mateix temps escalfar la llet.",
         "sv": "Under tiden, värm mjölken i en separat kastrull."
       },
       "thermomix": {
         "text": {
           "en": "Heat the milk, mixing 5 min / 90°C / speed 2.",
-          "es": "Calentar la leche, mezclando 5 min / 90°C / velocidad 2.",
+          "es": "Calienta la leche, mezclando 5 min / 90°C / velocidad 2.",
           "cat": "Escalfar la llet, barrejant 5 min / 90°C / velocitat 2.",
           "sv": "Värm mjölken under mixning 5 min / 90°C / hastighet 2."
         },
@@ -352,14 +352,14 @@
     {
       "text": {
         "en": "When the roux is cooked, add the hot milk little by little, whisking continuously with a whisk to prevent lumps from forming.",
-        "es": "Cuando el roux esté cocinado, añadimos la leche caliente poco a poco mezclando con varillas para que no queden grumos.",
+        "es": "Cuando el roux esté cocido, añade la leche caliente poco a poco mezclando con unas varillas para que no queden grumos.",
         "cat": "Quan el roux estigui cuit, afegim la llet calenta poc a poc barrejant amb batedors perquè no quedin grumolls.",
         "sv": "När rouxen är kokad, tillsätt den varma mjölken lite i taget under ständig vispning för att förhindra att klumpar bildas."
       },
       "thermomix": {
         "text": {
           "en": "Add the hot milk through the lid opening and mix 6 min / 90°C / speed 4.",
-          "es": "Añadir la leche caliente por la tapa y mezclar 6 min / 90°C / velocidad 4.",
+          "es": "Añade la leche caliente por la tapa y mezcla 6 min / 90°C / velocidad 4.",
           "cat": "Afegir la llet calenta per la tapa i barrejar 6 min / 90°C / velocitat 4.",
           "sv": "Tillsätt den varma mjölken genom locköppningen och mixa 6 min / 90°C / hastighet 4."
         },
@@ -374,14 +374,14 @@
     {
       "text": {
         "en": "Cook the béchamel for 10 minutes, stirring frequently.",
-        "es": "Cocinar la bechamel durante 10 minutos, mezclando frecuentemente.",
+        "es": "Cuece la bechamel durante 10 minutos, removiendo a menudo.",
         "cat": "Coure la beixamel durant 10 minuts, remenant regularment.",
         "sv": "Koka bechamelsåsen i 10 minuter under frekvent omrörning."
       },
       "thermomix": {
         "text": {
           "en": "Mix the béchamel 10 min / 90°C / speed 3, stirring with the spatula.",
-          "es": "Mezclar la bechamel 10 min / 90°C / velocidad 3, removiendo con la espátula.",
+          "es": "Mezcla la bechamel 10 min / 90°C / velocidad 3, removiendo con la espátula.",
           "cat": "Barrejar la beixamel 10 min / 90°C / velocitat 3, remenant amb l'espàtula.",
           "sv": "Mixa bechamelsåsen 10 min / 90°C / hastighet 3, rör med spatel."
         },
@@ -397,14 +397,14 @@
     {
       "text": {
         "en": "Add the filling and cook for 15 minutes, then add salt to taste by tasting the béchamel.",
-        "es": "Añadir el relleno y cocinar durante 15 min y añadir sal al gusto probando la bechamel.",
+        "es": "Añade el relleno, cuece durante 15 minutos y añade sal al gusto probando la bechamel.",
         "cat": "Afegir el farcit i coure durant 15 min i afegir sal al gust provant la beixamel.",
         "sv": "Tillsätt fyllningen och koka i 15 minuter, sedan tillsätt salt efter smak genom att smaka på bechamelsåsen."
       },
       "thermomix": {
         "text": {
           "en": "Add the filling and mix 15 min / 90°C / speed 3, stirring with the spatula. Add salt to taste at the end.",
-          "es": "Añadir el relleno y mezclar 15 min / 90°C / velocidad 3, removiendo con la espátula. Añadir sal al gusto al final.",
+          "es": "Añade el relleno y mezcla 15 min / 90°C / velocidad 3, removiendo con la espátula. Añade sal al gusto al final.",
           "cat": "Afegir el farcit i barrejar 15 min / 90°C / velocitat 3, remenant amb l'espàtula. Afegir sal al gust al final.",
           "sv": "Tillsätt fyllningen och mixa 15 min / 90°C / hastighet 3, rör med spatel. Tillsätt salt efter smak till slut."
         },
@@ -422,7 +422,7 @@
     {
       "text": {
         "en": "Transfer the mixture to a container and cover the surface with plastic wrap or film, pressing it directly onto the surface to prevent air contact. This prevents the surface from hardening. Let it rest in the refrigerator until the next day. This step is necessary for the croquetas to hold their shape when forming and getting more flavour.",
-        "es": "Transferir la masa a un recipiente y cubrir la superficie con film transparente, presionándolo directamente sobre la superficie para evitar el contacto con el aire. Esto evita que la superficie se endurezca. Dejar reposar hasta el día siguiente en la nevera. Este paso es necesario para que las croquetas mantengan su forma cuando se forman y obtengan más sabor.",
+        "es": "Transfiere la masa a un recipiente y cubre la superficie con film transparente, presionándolo directamente sobre ella para evitar el contacto con el aire. Así no se endurece la superficie. Déjala reposar en la nevera hasta el día siguiente. Este paso es necesario para que las croquetas mantengan su forma al moldearlas y ganen más sabor.",
         "cat": "Transferir la massa a un recipient i cobrir la superfície amb film transparent, pressionant-lo directament sobre la superfície per evitar el contacte amb l'aire. Això evita que la superfície s'endureixi. Deixar reposar fins l'endemà a la nevera. Aquest pas és necessari perquè les croquetes mantinguin la seva forma quan es formen i obtinguin més gust.",
         "sv": "Överför blandningen till en behållare och täck ytan med plastfolie, tryck den direkt mot ytan för att förhindra luftkontakt. Detta förhindrar att ytan hårdnar. Låt den vila i kylskåpet till nästa dag. Detta steg är nödvändigt för att kroketterna ska hålla sin form när de formas och få mer smak."
       },
@@ -431,7 +431,7 @@
     {
       "text": {
         "en": "Prepare the breading station: one bowl with flour, another with beaten eggs, and another with panko.",
-        "es": "Preparas la estación de rebozado: un bol con harina, otro con huevo batido y otro con panko.",
+        "es": "Prepara la estación de rebozado: un bol con harina, otro con huevo batido y otro con panko.",
         "cat": "Prepara l'estació de reboçat: un bol amb farina, un altre amb ou batut i un altre amb panko.",
         "sv": "Förbered paneringsstationen: en skål med mjöl, en annan med vispade ägg och en annan med panko."
       },
@@ -444,7 +444,7 @@
     {
       "text": {
         "en": "Remove the croqueta mixture from the refrigerator and shape it into your desired form. The mixture should be easy to mold, though it may stick to your hands slightly.",
-        "es": "Sacas la masa de las croquetas y haces la forma deseada. Deberían ser fáciles de moldear aunque se pegan en las manos.",
+        "es": "Saca la masa de las croquetas y haz la forma deseada. Deberían ser fáciles de moldear aunque se peguen en las manos.",
         "cat": "Treu la massa de les croquetes i fes-ne la forma desitjada. Haurien de ser fàcils de modelar encara que s'enganxin a les mans.",
         "sv": "Ta ut kroketblandningen från kylskåpet och forma den till önskad form. Blandningen bör vara lätt att forma, även om den kan klibba lite på händerna."
       }
@@ -452,7 +452,7 @@
     {
       "text": {
         "en": "Coat each croqueta: first in flour, then in beaten egg, and finally in panko. Make sure each croqueta is evenly coated.",
-        "es": "Rebozar cada croqueta: primero en harina, luego en huevo y luego en panko. Asegúrate de que cada croqueta esté cubierta uniformemente.",
+        "es": "Reboza cada croqueta: primero en harina, luego en huevo y luego en panko. Asegúrate de que cada croqueta quede cubierta de forma uniforme.",
         "cat": "Reboçar cada croqueta: primer en farina, després en ou i després en panko. Assegura't de que cada croqueta estigui coberta uniformement.",
         "sv": "Panera varje kroket: först i mjöl, sedan i vispade ägg och slutligen i panko. Se till att varje kroket är jämnt panerad."
       },
@@ -469,7 +469,7 @@
     {
       "text": {
         "en": "To cook the croquetas: Heat a pan with plenty of oil. Fry until golden brown. If using less oil, rotate the croquetas when they are golden on one side.",
-        "es": "Para cocerlas poner una sartén con mucho aceite y freír hasta doradas. Si pones poco aceite ir girando las croquetas cuando estén doradas.",
+        "es": "Para cocerlas, pon una sartén con mucho aceite y fríe hasta que estén doradas. Si pones poco aceite, ve girando las croquetas cuando se doren.",
         "cat": "Per coure-les posar una paella amb molt oli i fregir fins daurades. Si poses poc oli anar girant les croquetes quan estiguin daurades.",
         "sv": "För att laga kroketterna: Värm en stekpanna med mycket olja. Stek tills de är guldbruna. Om du använder mindre olja, vänd kroketterna när de är guldgula på ena sidan."
       },
@@ -480,7 +480,7 @@
     {
       "text": {
         "en": "Place the fried croquetas on paper towels to remove excess oil, then serve immediately and enjoy.",
-        "es": "Dejar en un papel de cocina para quitar el exceso de aceite y servir inmediatamente y disfrutar.",
+        "es": "Déjalas sobre papel de cocina para quitar el exceso de aceite, sírvelas enseguida y disfruta.",
         "cat": "Deixar en un paper de cuina per treure l'excés d'oli, servir immediatament i gaudir.",
         "sv": "Lägg de stekta kroketterna på hushållspapper för att ta bort överskott av olja, servera omedelbart och njut."
       }

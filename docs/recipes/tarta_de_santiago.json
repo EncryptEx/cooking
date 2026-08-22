@@ -15,7 +15,7 @@
     "en": "A classic Galician almond cake with a dense, marzipan-like crumb and bright lemon zest. Flourless, naturally gluten-free, and even better a day or two after baking under a dusting of powdered sugar.",
     "es": "Una tarta de almendras gallega clásica, densa como el mazapán y con ralladura de limón. Sin harina, naturalmente sin gluten, y aún mejor pasados uno o dos días con azúcar glas por encima.",
     "cat": "Un pastís d'ametlles gallec clàssic, dens com el massapà i amb ratlladura de llimona. Sense farina, naturalment sense gluten, i encara millor passat un o dos dies amb sucre glas per sobre.",
-    "sv": "En klassisk galicisk mandelkaka med tät, marsipanliknande smulor och citronskal. Mjölfri, naturligt glutenfri, och ännu godare efter en eller två dagar under ett lager florsocker."
+    "sv": "En klassisk galicisk mandelkaka med tät, marsipanliknande smula och citronskal. Mjölfri, naturligt glutenfri, och ännu godare efter en eller två dagar under ett lager florsocker."
   },
   "portion": {
     "type": "area",
@@ -87,7 +87,7 @@
             "en": "for dusting",
             "es": "para espolvorear",
             "cat": "per empolvorar",
-            "sv": "för pudring"
+            "sv": "för att pudra"
           },
           "id": "powdered_sugar"
         }
@@ -136,7 +136,7 @@
         "en": "Grease a 15 cm round tin with butter and pour in the batter, smoothing the top.",
         "es": "Engrasa un molde redondo de 15 cm con mantequilla, vierte la mezcla y alisa la superficie.",
         "cat": "Unta un motlle rodó de 15 cm amb mantega, aboca la barreja i allisa la superfície.",
-        "sv": "Smörj en rund form på 15 cm och häll i smeten. Jämna till ytan."
+        "sv": "Smörj en rund form på 15 cm med smör och häll i smeten. Jämna till ytan."
       },
       "ingredients": [
         "butter"
@@ -167,7 +167,7 @@
         "en": "Dust generously with powdered sugar before serving. It tastes even better after a day or two. Optionally, place a Cross of Saint James stencil on top before dusting for the traditional look.",
         "es": "Espolvorea generosamente con azúcar glas antes de servir. Está aún más buena pasados uno o dos días. Opcional: coloca una plantilla de la Cruz de Santiago encima antes de espolvorear para el acabado tradicional.",
         "cat": "Empolvora generosament amb sucre glas abans de servir. Encara és millor passat un o dos dies. Opcional: posa una plantilla de la Creu de Sant Jaume a sobre abans d'empolvorar per a l'acabat tradicional.",
-        "sv": "Pudra generöst med florsocker före servering. Den smakar ännu bättre efter en eller två dagar. Valfritt: lägg en Schablon med S:t Jakobs kors ovanpå före pudringen för det traditionella utseendet."
+        "sv": "Pudra generöst med florsocker före servering. Den smakar ännu bättre efter en eller två dagar. Valfritt: lägg en mall med Sankt Jakobs kors ovanpå före pudringen för det traditionella utseendet."
       },
       "ingredients": [
         "powdered_sugar"
