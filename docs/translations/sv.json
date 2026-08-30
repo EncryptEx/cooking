@@ -93,6 +93,7 @@
     "cinnamon": "kanel",
     "coconut_oil": "kokosfett",
     "cookie": "kaka",
+    "cornstarch": "majsstärkelse",
     "cracker": "kex",
     "cream_cheese": "gräddost",
     "crushed_tomato": {
@@ -148,6 +149,7 @@
     "jam": "marmelad",
     "lemon": "citron",
     "lemon_zest": "citronskal",
+    "lemon_peel": "citronskal",
     "lentil": "lins",
     "lime": "lime",
     "macaroni": "makaroner",
@@ -183,6 +185,7 @@
     "pearl_sugar": "pärlsocker",
     "pecorino_cheese": "pecorinoost",
     "pie": "paj",
+    "pineapple": "ananas",
     "pizza_toppings": "toppingar",
     "pork": "fläskkött",
     "potatoes": {

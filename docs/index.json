@@ -241,6 +241,31 @@
   },
   {
     "title": {
+      "en": "Crema Catalana",
+      "es": "Crema catalana",
+      "cat": "Crema catalana",
+      "sv": "Crema catalana"
+    },
+    "categories": [
+      "desserts"
+    ],
+    "path": "recipes/crema_catalana.json",
+    "image": "/images/crema_catalana/main.webp",
+    "author": "Fina",
+    "development": false,
+    "ingredient_keys": [
+      "milk",
+      "sugar",
+      "cornstarch",
+      "lemon_peel",
+      "cinnamon",
+      "egg_yolk",
+      "sugar",
+      "pineapple"
+    ]
+  },
+  {
+    "title": {
       "en": "Croquetas",
       "es": "Croquetas",
       "cat": "Croquetes",

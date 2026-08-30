@@ -1,0 +1,275 @@
+{
+  "title": {
+    "en": "Crema Catalana",
+    "es": "Crema catalana",
+    "cat": "Crema catalana",
+    "sv": "Crema catalana"
+  },
+  "author": "Fina",
+  "categories": [
+    "desserts"
+  ],
+  "image": "/images/crema_catalana/main.webp",
+  "description": {
+    "en": "A classic Catalan custard scented with lemon peel and cinnamon, thickened with cornstarch and egg yolks. Both versions are finished with a crisp caramelized sugar crust; the pineapple variation adds fresh layers between the cream.",
+    "es": "Una crema catalana clásica perfumada con piel de limón y canela, espesada con maicena y yemas de huevo. Ambas versiones se terminan con una costra crujiente de azúcar caramelizado; la variante con piña añade capas frescas entre la crema.",
+    "cat": "Una crema catalana clàssica perfumada amb pela de llimona i canyella, espessida amb maicena i rovells d'ou. Les dues versions es acaben amb una crosta cruixent de sucre caramel·litzat; la variant amb pinya afegeix capes fresques entre la crema.",
+    "sv": "En klassisk katalansk vaniljkräm doftad med citronskal och kanel, tjocknad med majsstärkelse och äggulor. Båda varianterna avslutas med ett krispigt karamelliserat sockerlager; ananasvarianten varvas med fräscha skivor i krämen."
+  },
+  "portion": {
+    "type": "servings",
+    "value": 4,
+    "unit": "servings"
+  },
+  "variants": [
+    {
+      "key": "classic",
+      "name": {
+        "en": "Classic",
+        "es": "Clásica",
+        "cat": "Clàssica",
+        "sv": "Klassisk"
+      }
+    },
+    {
+      "key": "pineapple",
+      "name": {
+        "en": "With pineapple",
+        "es": "Con piña",
+        "cat": "Amb pinya",
+        "sv": "Med ananas"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "group": {
+        "en": "Custard base",
+        "es": "Base de la crema",
+        "cat": "Base de la crema",
+        "sv": "Vaniljkrämsbas"
+      },
+      "items": [
+        {
+          "id": "milk",
+          "ingredient": "milk",
+          "value": 0.5,
+          "unit": "l"
+        },
+        {
+          "id": "sugar",
+          "ingredient": "sugar",
+          "value": 75,
+          "unit": "g"
+        },
+        {
+          "id": "cornstarch",
+          "ingredient": "cornstarch",
+          "value": 30,
+          "unit": "g"
+        },
+        {
+          "id": "lemon_peel",
+          "ingredient": "lemon_peel",
+          "value": 1,
+          "text": {
+            "en": "without white pith",
+            "es": "sin parte blanca",
+            "cat": "sense part blanca",
+            "sv": "utan det vita"
+          }
+        },
+        {
+          "id": "cinnamon",
+          "ingredient": "cinnamon",
+          "value": 0.5,
+          "text": {
+            "en": "stick",
+            "es": "rama",
+            "cat": "tronc",
+            "sv": "stång"
+          }
+        },
+        {
+          "id": "egg_yolks",
+          "ingredient": "egg_yolk",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "To finish",
+        "es": "Para terminar",
+        "cat": "Per acabar",
+        "sv": "Till servering"
+      },
+      "items": [
+        {
+          "id": "topping_sugar",
+          "ingredient": "sugar",
+          "value": 0,
+          "unit": "to_taste",
+          "text": {
+            "en": "for caramelizing",
+            "es": "para caramelizar",
+            "cat": "per caramel·litzar",
+            "sv": "för karamellisering"
+          }
+        },
+        {
+          "id": "pineapple",
+          "ingredient": "pineapple",
+          "value": 0,
+          "unit": "as_needed",
+          "onlyForVariation": "pineapple",
+          "text": {
+            "en": "fresh, for layering",
+            "es": "fresca, para intercalar en capas",
+            "cat": "fresca, per intercalar en capes",
+            "sv": "färsk, för att varva i lager"
+          }
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "text": {
+        "en": "Set aside about 100 ml of the milk. Pour the rest into a medium saucepan.",
+        "es": "Reserva unos 100 ml de leche. Vierte el resto en una cacerola mediana.",
+        "cat": "Reserva uns 100 ml de llet. Aboca la resta en un cassó mitjà.",
+        "sv": "Ta undan cirka 100 ml av mjölken. Häll resten i en medelstor kastrull."
+      },
+      "ingredients": [
+        "milk"
+      ]
+    },
+    {
+      "text": {
+        "en": "In a bowl, whisk the egg yolks with a small splash of the reserved milk until pale and smooth.",
+        "es": "En un bol, bate las yemas con un poco de la leche reservada hasta que queden pálidas y suaves.",
+        "cat": "En un bol, bateix els rovells amb una mica de la llet reservada fins que quedin pàl·lids i fins.",
+        "sv": "Vispa äggulorna med en skvätt av den undanhållna mjölken i en skål tills de blir ljusa och släta."
+      },
+      "ingredients": [
+        "egg_yolks",
+        "milk"
+      ]
+    },
+    {
+      "text": {
+        "en": "In a glass, whisk the cornstarch with the remaining reserved milk until completely smooth and lump-free. Set aside.",
+        "es": "En un vaso, mezcla la maicena con el resto de la leche reservada hasta que no queden grumos. Reserva.",
+        "cat": "En un got, barreja la maicena amb la resta de la llet reservada fins que no quedin grumolls. Reserva.",
+        "sv": "Blanda majsstärkelsen med resten av den undanhållna mjölken i ett glas tills smeten är helt slät och klumpfri. Ställ åt sidan."
+      },
+      "ingredients": [
+        "cornstarch",
+        "milk"
+      ]
+    },
+    {
+      "text": {
+        "en": "Pour the egg yolk mixture through a fine sieve into the saucepan with the milk.",
+        "es": "Pasa la mezcla de yemas por un colador fino al cazo con la leche.",
+        "cat": "Passa la barreja de rovells per un colador fi al cassó amb la llet.",
+        "sv": "Sila äggulsblandningen genom ett finmaskigt durk i kastrullen med mjölken."
+      },
+      "ingredients": [
+        "egg_yolks",
+        "milk"
+      ]
+    },
+    {
+      "text": {
+        "en": "Add the sugar, lemon peel strip, and cinnamon stick. Cook over medium heat, stirring occasionally, until the mixture comes to a boil.",
+        "es": "Añade el azúcar, la tira de piel de limón y la rama de canela. Cocina a fuego medio, removiendo de vez en cuando, hasta que hierva.",
+        "cat": "Afegeix el sucre, la tira de pela de llimona i el tronc de canyella. Cou a foc mitjà, remenant de tant en tant, fins que bulli.",
+        "sv": "Tillsätt sockret, citronskalsremsan och kanelstången. Koka på medelvärme under omrörning då och då tills blandningen kokar upp."
+      },
+      "ingredients": [
+        "sugar",
+        "lemon_peel",
+        "cinnamon"
+      ]
+    },
+    {
+      "text": {
+        "en": "Remove from the heat and wait until the bubbling stops.",
+        "es": "Retira del fuego y espera a que deje de burbujear.",
+        "cat": "Retira del foc i espera que deixi de bullir.",
+        "sv": "Ta kastrullen från värmen och vänta tills det slutar bubbla."
+      },
+      "ingredients": []
+    },
+    {
+      "text": {
+        "en": "Once it has stopped bubbling, pour in the cornstarch slurry while whisking constantly. Keep whisking off the heat until the cream thickens.",
+        "es": "Cuando haya dejado de burbujear, vierte la mezcla de maicena sin dejar de remover. Sigue removiendo fuera del fuego hasta que espese.",
+        "cat": "Quan hagi deixat de bullir, aboca la barreja de maicena sense deixar de remenar. Continua remenant fora del foc fins que s'espesseixi.",
+        "sv": "När det slutat bubbla, häll i majsstärkelsesmeten under konstant vispning. Fortsätt vispa utanför värmen tills krämen tjocknar."
+      },
+      "ingredients": [
+        "cornstarch"
+      ]
+    },
+    {
+      "text": {
+        "en": "Remove and discard the lemon peel and cinnamon stick. Cover the cream with plastic wrap pressed directly onto the surface to prevent a skin from forming. Refrigerate until completely cold, at least 2 hours.",
+        "es": "Retira y desecha la piel de limón y la rama de canela. Cubre la crema con film transparente en contacto con la superficie para evitar que se forme piel. Refrigera hasta que esté bien fría, al menos 2 horas.",
+        "cat": "Retira i descarta la pela de llimona i el tronc de canyella. Cobreix la crema amb film transparent en contacte amb la superfície per evitar que es formi pell. Refrigera fins que estigui ben freda, almenys 2 hores.",
+        "sv": "Ta upp och kasta citronskalet och kanelstången. Täck krämen med plastfolie som trycks mot ytan så att ingen hinna bildas. Kyl tills den är helt kall, minst 2 timmar."
+      },
+      "ingredients": [
+        "lemon_peel",
+        "cinnamon"
+      ]
+    },
+    {
+      "text": {
+        "en": "Divide the chilled cream among shallow heatproof ramekins.",
+        "es": "Reparte la crema fría en cazuelitas poco profundas resistentes al calor.",
+        "cat": "Reparteix la crema freda en cassoletes poc profundes resistents a la calor.",
+        "sv": "Fördela den kylda krämen i grunda ugnssäkra formar."
+      },
+      "ingredients": [],
+      "onlyForVariation": "classic"
+    },
+    {
+      "text": {
+        "en": "Peel the pineapple and cut it into thin slices or half-moons.",
+        "es": "Pela la piña y córtala en láminas finas o medias lunas.",
+        "cat": "Pela la pinya i talla-la a làmines fines o mitges llunes.",
+        "sv": "Skala ananasen och skär den i tunna skivor eller halvmånar."
+      },
+      "ingredients": [
+        "pineapple"
+      ],
+      "onlyForVariation": "pineapple"
+    },
+    {
+      "text": {
+        "en": "In individual serving bowls, alternate layers of chilled cream and pineapple slices until each bowl is filled.",
+        "es": "En boles individuales, intercala capas de crema fría y láminas de piña hasta llenar cada bol.",
+        "cat": "En bols individuals, intercala capes de crema freda i làmines de pinya fins omplir cada bol.",
+        "sv": "Varva kall kräm och ananasskivor i individuella skålar tills varje skål är fylld."
+      },
+      "ingredients": [
+        "pineapple"
+      ],
+      "onlyForVariation": "pineapple"
+    },
+    {
+      "text": {
+        "en": "Just before serving, sprinkle a thin, even layer of sugar over each portion. Caramelize with a kitchen torch or under a hot broiler until the sugar melts and turns golden and crisp.",
+        "es": "Justo antes de servir, espolvorea una capa fina y uniforme de azúcar sobre cada porción. Carameliza con un soplete de cocina o bajo el grill hasta que el azúcar se derrita y quede dorado y crujiente.",
+        "cat": "Just abans de servir, espolsa una capa fina i uniforme de sucre sobre cada ració. Caramel·litza amb un soplet de cuina o sota el grill fins que el sucre es fongui i quedi daurat i cruixent.",
+        "sv": "Strö ett tunt, jämnt lager socker över varje portion precis före servering. Karamellisera med en kökstorch eller under grillen tills sockret smälter och blir gyllene och krispigt."
+      },
+      "ingredients": [
+        "topping_sugar"
+      ]
+    }
+  ]
+}

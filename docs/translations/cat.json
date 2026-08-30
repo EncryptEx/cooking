@@ -93,6 +93,7 @@
     "cinnamon": "canyella",
     "coconut_oil": "oli de coco",
     "cookie": "galeta",
+    "cornstarch": "maicena",
     "cracker": "cracker",
     "cream_cheese": "formatge cremós",
     "crushed_tomato": {
@@ -151,6 +152,7 @@
     "jam": "melmelada",
     "lemon": "llimona",
     "lemon_zest": "ratlladura de llimona",
+    "lemon_peel": "pela de llimona",
     "lentil": "llentia",
     "lime": "llima",
     "macaroni": "macarrons",
@@ -186,6 +188,7 @@
     "pearl_sugar": "sucre perlat",
     "pecorino_cheese": "formatge pecorino",
     "pie": "coca",
+    "pineapple": "pinya",
     "pizza_toppings": "ingredients",
     "pork": "carn de porc",
     "potatoes": {
