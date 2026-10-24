@@ -300,6 +300,34 @@
   },
   {
     "title": {
+      "en": "Crunchy Granola",
+      "es": "Granola crujiente",
+      "cat": "Granola cruixent",
+      "sv": "Krispig granola"
+    },
+    "categories": [
+      "snacks",
+      "baking"
+    ],
+    "path": "recipes/granola.json",
+    "image": "/images/granola/main.webp",
+    "author": "Arnau",
+    "development": false,
+    "ingredient_keys": [
+      "rolled_oats",
+      "mixed_nuts",
+      "sunflower_seeds",
+      "pumpkin_seeds",
+      "chia_seeds",
+      "egg_white",
+      "honey",
+      "olive_oil",
+      "salt",
+      "dark_chocolate"
+    ]
+  },
+  {
+    "title": {
       "en": "Fudgy Chocolate Brownie",
       "es": "Brownie de Chocolate",
       "cat": "Brownie de Xocolata",

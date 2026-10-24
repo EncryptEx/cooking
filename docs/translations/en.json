@@ -87,6 +87,7 @@
     "cheese": "cheese",
     "cherry": "cherry",
     "chestnut": "chestnut",
+    "chia_seeds": "chia seeds",
     "chicken": "chicken",
     "chips": "chips",
     "chufa": "tiger nuts (chufa)",
@@ -161,6 +162,7 @@
     "melting_cheese": "cheese that melts easily",
     "milk": "milk",
     "minced_pork": "minced pork",
+    "mixed_nuts": "mixed nuts",
     "mooncake": "mooncake",
     "mushroom": "mushroom",
     "mushrooms": "mushrooms",
@@ -196,11 +198,13 @@
       "1+": "potatoes"
     },
     "powdered_sugar": "powdered sugar",
+    "pumpkin_seeds": "pumpkin seeds",
     "raspberry": {
       "1": "raspberry",
       "1+": "raspberries"
     },
     "red_pepper": "sweet paprika",
+    "rolled_oats": "rolled oats",
     "rye_flour": "rye flour",
     "semi_sweet_chocolate_chips": "semi-sweet chocolate chips",
     "salt": "salt",
@@ -208,6 +212,7 @@
     "strong_flour": "strong flour",
     "sugar": "sugar",
     "sunflower_oil": "sunflower oil",
+    "sunflower_seeds": "sunflower seeds",
     "sushi": "sushi",
     "tamale": "tamale",
     "thyme": "thyme",

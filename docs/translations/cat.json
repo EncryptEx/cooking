@@ -87,6 +87,7 @@
     "cheese": "formatge",
     "cherry": "cirera",
     "chestnut": "castanya",
+    "chia_seeds": "llavors de chia",
     "chicken": "pollastre",
     "chips": "patates fregides",
     "chufa": "xufes",
@@ -161,6 +162,7 @@
     "melting_cheese": "formatge que es fongui bé",
     "milk": "llet",
     "minced_pork": "carn picada de porc",
+    "mixed_nuts": "fruits secs variats",
     "mooncake": "pastís de lluna",
     "mushroom": "bolet",
     "mushrooms": "bolets",
@@ -196,11 +198,13 @@
       "1+": "patates"
     },
     "powdered_sugar": "sucre glas",
+    "pumpkin_seeds": "pipes de carbassa",
     "raspberry": {
       "1": "gerd",
       "1+": "gerds"
     },
     "red_pepper": "pebre vermell dolç",
+    "rolled_oats": "avena laminada",
     "rye_flour": "farina de sègol",
     "semi_sweet_chocolate_chips": "xips de xocolata semi-dolça",
     "salt": "sal",
@@ -208,6 +212,7 @@
     "strong_flour": "farina de força",
     "sugar": "sucre",
     "sunflower_oil": "oli de gira-sol",
+    "sunflower_seeds": "pipes de gira-sol",
     "sushi": "sushi",
     "tamale": "tamal",
     "thyme": "farigola",

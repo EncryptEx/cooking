@@ -1,0 +1,230 @@
+{
+  "title": {
+    "en": "Crunchy Granola",
+    "es": "Granola crujiente",
+    "cat": "Granola cruixent",
+    "sv": "Krispig granola"
+  },
+  "author": "Arnau",
+  "categories": [
+    "snacks",
+    "baking"
+  ],
+  "image": "/images/granola/main.webp",
+  "description": {
+    "en": "A cluster-style granola baked as one large slab: rolled oats, mixed nuts, and three kinds of seeds bound with honey, olive oil, and egg white. Cool completely before breaking into chunks—optional dark chocolate melts into pockets as it sets.",
+    "es": "Una granola en clusters horneada como una sola placa: avena laminada, frutos secos y tres tipos de semillas unidos con miel, aceite de oliva y clara de huevo. Déjala enfriar del todo antes de romperla en trozos; el chocolate negro opcional se funde en bolsitas al cuajar.",
+    "cat": "Una granola en clusters enfornada com una sola placa: avena laminada, fruits secs i tres tipus de llavors units amb mel, oli d'oliva i clara d'ou. Deixa-la refredar del tot abans de trencar-la a trossos; la xocolata negra opcional es fon formant nius en solidificar-se.",
+    "sv": "En clustersgranola som bakas som en enda platta: havregryn, blandade nötter och tre sorters frön bundna med honung, olivolja och äggvita. Låt den svalna helt innan du bryter den i bitar—valfri mörk choklad smälter till fickor när den stelnar."
+  },
+  "portion": {
+    "type": "servings",
+    "value": 10,
+    "unit": "servings"
+  },
+  "ingredients": [
+    {
+      "group": {
+        "en": "Dry mix",
+        "es": "Mezcla seca",
+        "cat": "Barreja seca",
+        "sv": "Torr blandning"
+      },
+      "items": [
+        {
+          "id": "rolled_oats",
+          "ingredient": "rolled_oats",
+          "value": 300,
+          "unit": "g"
+        },
+        {
+          "id": "mixed_nuts",
+          "ingredient": "mixed_nuts",
+          "value": 125,
+          "unit": "g",
+          "text": {
+            "en": "raw, peeled (almonds, walnuts, etc.)",
+            "es": "crudos, pelados (almendras, nueces, etc.)",
+            "cat": "crus, pelats (ametlles, nous, etc.)",
+            "sv": "råa, skalade (mandlar, valnötter, etc.)"
+          }
+        },
+        {
+          "id": "sunflower_seeds",
+          "ingredient": "sunflower_seeds",
+          "value": 50,
+          "unit": "g"
+        },
+        {
+          "id": "pumpkin_seeds",
+          "ingredient": "pumpkin_seeds",
+          "value": 50,
+          "unit": "g"
+        },
+        {
+          "id": "chia_seeds",
+          "ingredient": "chia_seeds",
+          "value": 50,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Wet mix",
+        "es": "Mezcla húmeda",
+        "cat": "Barreja humida",
+        "sv": "Våt blandning"
+      },
+      "items": [
+        {
+          "id": "egg_white",
+          "ingredient": "egg_white",
+          "value": 1
+        },
+        {
+          "id": "honey",
+          "ingredient": "honey",
+          "value": 50,
+          "unit": "g"
+        },
+        {
+          "id": "olive_oil",
+          "ingredient": "olive_oil",
+          "value": 20,
+          "unit": "g"
+        },
+        {
+          "id": "salt",
+          "ingredient": "salt",
+          "value": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "To finish",
+        "es": "Para terminar",
+        "cat": "Per acabar",
+        "sv": "Till avslutning"
+      },
+      "items": [
+        {
+          "id": "dark_chocolate",
+          "ingredient": "dark_chocolate",
+          "value": 0,
+          "unit": "as_needed",
+          "text": {
+            "en": "optional, roughly chopped — melts into pockets as the slab cools",
+            "es": "opcional, troceado a lo bruto — se funde en bolsitas al enfriar la placa",
+            "cat": "opcional, trossejada a trossos grans — es fon formant nius en refredar-se la placa",
+            "sv": "valfritt, grovhackad — smälter till fickor medan plattan svalnar"
+          }
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "text": {
+        "en": "Preheat the oven to 160°C. Line a baking tray with parchment paper.",
+        "es": "Precalienta el horno a 160°C. Forra una bandeja de horno con papel de hornear.",
+        "cat": "Preescalfa el forn a 160°C. Forra una safata de forn amb paper de forn.",
+        "sv": "Förvärm ugnen till 160°C. Klä en plåt med bakplåtspapper."
+      },
+      "oven": {
+        "temperature": 160,
+        "mode": [
+          "top",
+          "bottom"
+        ]
+      },
+      "ingredients": []
+    },
+    {
+      "text": {
+        "en": "In a large bowl, combine the rolled oats, mixed nuts, sunflower seeds, pumpkin seeds, and chia seeds.",
+        "es": "En un bol grande, mezcla la avena laminada, los frutos secos, las pipas de girasol, las de calabaza y las semillas de chía.",
+        "cat": "En un bol gran, barreja l'avena laminada, els fruits secs, les pipes de gira-sol, les de carbassa i les llavors de chia.",
+        "sv": "Blanda havregryn, blandade nötter, solrosfrön, pumpakärnor och chiafrön i en stor skål."
+      },
+      "ingredients": [
+        "rolled_oats",
+        "mixed_nuts",
+        "sunflower_seeds",
+        "pumpkin_seeds",
+        "chia_seeds"
+      ]
+    },
+    {
+      "text": {
+        "en": "In a second bowl, whisk the egg white until fully incorporated and slightly frothy. Whisk in the honey, olive oil, and salt until smooth.",
+        "es": "En un segundo bol, bate la clara hasta que quede bien incorporada y ligeramente espumosa. Añade la miel, el aceite de oliva y la sal y remueve hasta obtener una mezcla homogénea.",
+        "cat": "En un segon bol, bateix la clara fins que quedi ben incorporada i lleugerament escumosa. Afegeix-hi la mel, l'oli d'oliva i la sal i remena fins a obtenir una barreja homogènia.",
+        "sv": "Vispa äggvitan i en andra skål tills den är helt blandad och lätt skummande. Vispa i honung, olivolja och salt tills det blir slätt."
+      },
+      "ingredients": [
+        "egg_white",
+        "honey",
+        "olive_oil",
+        "salt"
+      ]
+    },
+    {
+      "text": {
+        "en": "Pour the wet mixture over the dry ingredients and toss until everything is evenly coated.",
+        "es": "Vierte la mezcla húmeda sobre los ingredientes secos y remueve hasta que todo quede bien impregnado.",
+        "cat": "Aboca la barreja humida sobre els ingredients secs i remena fins que tot quedi ben cobert.",
+        "sv": "Häll den våta blandningen över de torra ingredienserna och rör om tills allt är jämnt täckt."
+      },
+      "ingredients": []
+    },
+    {
+      "text": {
+        "en": "Tip the mixture onto the lined tray. Press it firmly into one large, even slab—tight packing is what gives you big crunchy clusters later.",
+        "es": "Vierte la mezcla sobre la bandeja forrada. Presiona con firmeza hasta formar una sola placa uniforme y compacta: ese apretado es lo que dará clusters grandes y crujientes.",
+        "cat": "Aboca la barreja sobre la safata forrada. Prem amb fermesa fins a formar una sola placa uniforme i compacta: aquest premsat és el que donarà clusters grans i cruixents.",
+        "sv": "Tippa blandningen på den klädda plåten. Tryck ihop den hårt till en stor, jämn platta—det täta packandet ger stora krispiga clusters senare."
+      },
+      "ingredients": []
+    },
+    {
+      "text": {
+        "en": "Bake for 30 minutes, until the slab is golden and smells toasty. Do not stir mid-bake—you want it to stay in one piece.",
+        "es": "Hornea 30 minutos, hasta que la placa esté dorada y huela a tostado. No remuevas a mitad de cocción: debe quedar en una sola pieza.",
+        "cat": "Enforna 30 minuts, fins que la placa estigui daurada i faci olor de torrat. No remenis a meitat de cocció: ha de quedar en una sola peça.",
+        "sv": "Baka i 30 minuter, tills plattan är gyllene och doftar rostig. Rör inte om under bakningen—den ska förbli i ett stycke."
+      },
+      "oven": {
+        "temperature": 160,
+        "time": 1800,
+        "mode": [
+          "top",
+          "bottom"
+        ]
+      },
+      "ingredients": []
+    },
+    {
+      "text": {
+        "en": "Optionally scatter chopped chocolate over the hot granola so it softens into pockets. Leave the slab on the tray until completely cool—breaking it warm makes soft crumbs instead of shards.",
+        "es": "Opcionalmente, espolvorea chocolate troceado sobre la granola caliente para que se ablande en bolsitas. Deja la placa en la bandeja hasta que esté completamente fría: romperla caliente da migas blandas en lugar de trozos crujientes.",
+        "cat": "Opcionalment, escampa xocolata trossejada sobre la granola calenta perquè s'estovi formant nius. Deixa la placa a la safata fins que estigui completament freda: trencar-la calenta dona engrunes toves en lloc de trossos cruixents.",
+        "sv": "Strö gärna hackad choklad över den heta granolan så den mjuknar till fickor. Låt plattan stå kvar på plåten tills den är helt sval—att bryta den varm ger mjuka smulor i stället för skärvor."
+      },
+      "ingredients": [
+        "dark_chocolate"
+      ]
+    },
+    {
+      "text": {
+        "en": "Break the cooled slab into bite-size clusters and store in an airtight container.",
+        "es": "Rompe la placa fría en clusters del tamaño de un bocado y guárdalos en un recipiente hermético.",
+        "cat": "Trenca la placa freda en clusters de la mida d'un mos i guarda'ls en un recipient hermètic.",
+        "sv": "Bryt den kylda plattan i clusters i bitstorlek och förvara i en lufttät burk."
+      },
+      "ingredients": []
+    }
+  ]
+}

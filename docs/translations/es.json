@@ -87,6 +87,7 @@
     "cheese": "queso",
     "cherry": "cereza",
     "chestnut": "castaña",
+    "chia_seeds": "semillas de chía",
     "chicken": "pollo",
     "chips": "patatas fritas",
     "chufa": "chufas",
@@ -161,6 +162,7 @@
     "melting_cheese": "queso que funda fácilmente",
     "milk": "leche",
     "minced_pork": "carne picada de cerdo",
+    "mixed_nuts": "frutos secos surtidos",
     "mooncake": "pastel de luna",
     "mushroom": "seta",
     "mushrooms": "setas",
@@ -196,11 +198,13 @@
       "1+": "patatas"
     },
     "powdered_sugar": "azúcar glas",
+    "pumpkin_seeds": "pipas de calabaza",
     "raspberry": {
       "1": "frambuesa",
       "1+": "frambuesas"
     },
     "red_pepper": "pimentón dulce",
+    "rolled_oats": "avena laminada",
     "rye_flour": "harina de centeno",
     "semi_sweet_chocolate_chips": "pepitas de chocolate semi-dulce",
     "salt": "sal",
@@ -208,6 +212,7 @@
     "strong_flour": "harina de fuerza",
     "sugar": "azúcar",
     "sunflower_oil": "aceite de girasol",
+    "sunflower_seeds": "pipas de girasol",
     "sushi": "sushi",
     "tamale": "tamal",
     "thyme": "tomillo",
