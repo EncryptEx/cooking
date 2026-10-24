@@ -328,10 +328,10 @@
   },
   {
     "title": {
-      "en": "Fudgy Chocolate Brownie",
-      "es": "Brownie de Chocolate",
-      "cat": "Brownie de Xocolata",
-      "sv": "Kladdig Chokladbrownie"
+      "en": "Fudgy Brownie",
+      "es": "Fudgy Brownie",
+      "cat": "Fudgy Brownie",
+      "sv": "Fudgy Brownie"
     },
     "categories": [
       "desserts",
@@ -340,21 +340,21 @@
     "path": "recipes/chocolate_brownie.json",
     "image": "/images/chocolate_brownie/main.webp",
     "author": "Arnau",
-    "development": true,
+    "development": false,
     "ingredient_keys": [
       "butter",
-      "dark_chocolate_chips",
-      "sugar",
+      "dark_chocolate",
       "eggs",
-      "unsweetened_cocoa_powder",
+      "egg_yolk",
+      "brown_sugar",
+      "sugar",
+      "vanilla_extract",
       "flour",
-      "almond_flour",
-      "espresso_powder",
-      "salt",
-      "baking_powder",
+      "unsweetened_cocoa_powder",
       "walnuts",
-      "dark_chocolate_chips",
-      "raspberry"
+      "salt",
+      "strawberry",
+      "vanilla_ice_cream"
     ]
   },
   {
