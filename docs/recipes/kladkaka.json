@@ -1,0 +1,203 @@
+{
+  "title": {
+    "en": "Kladkaka",
+    "es": "Kladkaka",
+    "cat": "Kladkaka",
+    "sv": "Kladkaka"
+  },
+  "author": "Arnau",
+  "categories": [
+    "desserts",
+    "baking"
+  ],
+  "image": "/images/kladkaka/main.webp",
+  "description": {
+    "en": "A classic Swedish sticky chocolate cake with a thin crust and a gooey center. The batter rests in the fridge until you are ready to bake; serve slightly warm with raspberries or vanilla ice cream.",
+    "es": "Un clásico pastel sueco de chocolate pegajoso, con costra fina y centro húmedo. La masa reposa en la nevera hasta el momento de hornear; sírvelo templado con frambuesas o helado de vainilla.",
+    "cat": "Un clàssic pastís suec de xocolata enganxosa, amb crosta fina i centre humit. La massa reposa a la nevera fins al moment d'enfornar; serveix-lo tebi amb gerds o gelat de vainilla.",
+    "sv": "En klassisk svensk kladdkaka med tunn skorpa och klibbig mitt. Smeten vilar i kylen tills du är redo att baka; servera lätt varm med hallon eller vaniljglass."
+  },
+  "portion": {
+    "type": "area",
+    "shape": "circular",
+    "dimensions": {
+      "diameter": 15,
+      "unit": "cm"
+    }
+  },
+  "ingredients": [
+    {
+      "group": {
+        "en": "Batter",
+        "es": "Masa",
+        "cat": "Massa",
+        "sv": "Smet"
+      },
+      "items": [
+        {
+          "id": "butter",
+          "ingredient": "butter",
+          "value": 50,
+          "unit": "g"
+        },
+        {
+          "id": "sugar",
+          "ingredient": "sugar",
+          "value": 75,
+          "unit": "g"
+        },
+        {
+          "id": "eggs",
+          "ingredient": "eggs",
+          "value": 1
+        },
+        {
+          "id": "vanilla_extract",
+          "ingredient": "vanilla_extract",
+          "value": 0.33,
+          "unit": "tsp"
+        },
+        {
+          "id": "salt",
+          "ingredient": "salt",
+          "value": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "id": "flour",
+          "ingredient": "flour",
+          "value": 45,
+          "unit": "g"
+        },
+        {
+          "id": "cocoa_powder",
+          "ingredient": "unsweetened_cocoa_powder",
+          "value": 30,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "To serve",
+        "es": "Para servir",
+        "cat": "Per servir",
+        "sv": "Till servering"
+      },
+      "items": [
+        {
+          "id": "raspberry",
+          "ingredient": "raspberry",
+          "value": 0,
+          "unit": "as_needed",
+          "text": {
+            "en": "fresh, optional",
+            "es": "frescas, opcional",
+            "cat": "fresques, opcional",
+            "sv": "färska, valfritt"
+          }
+        },
+        {
+          "id": "vanilla_ice_cream",
+          "ingredient": "vanilla_ice_cream",
+          "value": 0,
+          "unit": "as_needed",
+          "text": {
+            "en": "optional",
+            "es": "opcional",
+            "cat": "opcional",
+            "sv": "valfritt"
+          }
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "text": {
+        "en": "Melt the butter in a saucepan over low heat, or in the microwave in short bursts. Let it cool slightly so it does not scramble the egg.",
+        "es": "Derrite la mantequilla en un cazo a fuego bajo, o en el microondas a intervalos cortos. Déjala enfriar un poco para que no cuaje el huevo.",
+        "cat": "Fon la mantega en un cassó a foc baix, o al microones a intervals curts. Deixa-la refredar una mica perquè no coaguli l'ou.",
+        "sv": "Smält smöret i en kastrull på låg värme, eller i mikrovågsugnen i korta stötar. Låt det svalna något så att ägget inte stelnar."
+      },
+      "ingredients": [
+        "butter"
+      ]
+    },
+    {
+      "text": {
+        "en": "In a bowl, mix the melted butter with the sugar, egg, vanilla extract, and salt until the sugar has dissolved and the mixture is smooth.",
+        "es": "En un bol, mezcla la mantequilla derretida con el azúcar, el huevo, el extracto de vainilla y la sal hasta que el azúcar se disuelva y la mezcla quede homogénea.",
+        "cat": "En un bol, barreja la mantega fosa amb el sucre, l'ou, l'extracte de vainilla i la sal fins que el sucre s'hagi dissolt i la barreja quedi homogènia.",
+        "sv": "Blanda det smälta smöret med sockret, ägget, vaniljextraktet och saltet i en skål tills sockret har lösts upp och blandningen är slät."
+      },
+      "ingredients": [
+        "butter",
+        "sugar",
+        "eggs",
+        "vanilla_extract",
+        "salt"
+      ]
+    },
+    {
+      "text": {
+        "en": "Add the flour and cocoa powder and mix until just incorporated—do not overwork the batter.",
+        "es": "Añade la harina y el cacao en polvo y mezcla solo hasta incorporar: no trabajes demasiado la masa.",
+        "cat": "Afegeix la farina i el cacau en pols i barreja només fins a incorporar: no treballis massa la massa.",
+        "sv": "Tillsätt mjölet och kakaopulvret och blanda tills det just är ihopblandat—arbeta inte smeten för mycket."
+      },
+      "ingredients": [
+        "flour",
+        "cocoa_powder"
+      ]
+    },
+    {
+      "text": {
+        "en": "Cover the bowl and refrigerate the batter until you are ready to bake.",
+        "es": "Cubre el bol y guarda la masa en la nevera hasta el momento de hornear.",
+        "cat": "Cobrix el bol i guarda la massa a la nevera fins al moment d'enfornar.",
+        "sv": "Täck skålen och förvara smeten i kylen tills du är redo att baka."
+      },
+      "ingredients": []
+    },
+    {
+      "text": {
+        "en": "Preheat the oven to 175°C fan. Grease a 15 cm round tin or line it with parchment paper.",
+        "es": "Precalienta el horno a 175°C con ventilador. Engrasa un molde redondo de 15 cm o fórralo con papel de hornear.",
+        "cat": "Preescalfa el forn a 175°C amb ventilador. Unta un motlle rodó de 15 cm o fòrra'l amb paper de forn.",
+        "sv": "Förvärm ugnen till 175°C varmluft. Smörj en rund form på 15 cm eller klä den med bakplåtspapper."
+      },
+      "oven": {
+        "temperature": 175,
+        "mode": "fan"
+      },
+      "ingredients": []
+    },
+    {
+      "text": {
+        "en": "Pour the batter into the prepared tin and bake for 20 minutes. The edges should be set while the center stays soft and sticky.",
+        "es": "Vierte la masa en el molde preparado y hornea 20 minutos. Los bordes deben cuajar mientras el centro queda blando y pegajoso.",
+        "cat": "Aboca la massa al motlle preparat i enforna 20 minuts. Les vores han de quallar mentre el centre queda tou i enganxós.",
+        "sv": "Häll smeten i den förberedda formen och baka i 20 minuter. Kanterna ska vara fasta medan mitten förblir mjuk och kladdig."
+      },
+      "oven": {
+        "temperature": 175,
+        "time": 1200,
+        "mode": "fan"
+      },
+      "ingredients": []
+    },
+    {
+      "text": {
+        "en": "Let the cake rest a few minutes in the tin, then serve slightly warm with fresh raspberries or vanilla ice cream.",
+        "es": "Deja reposar el pastel unos minutos en el molde y sírvelo templado con frambuesas frescas o helado de vainilla.",
+        "cat": "Deixa reposar el pastís uns minuts al motlle i serveix-lo tebi amb gerds fresques o gelat de vainilla.",
+        "sv": "Låt kakan vila några minuter i formen och servera lätt varm med färska hallon eller vaniljglass."
+      },
+      "ingredients": [
+        "raspberry",
+        "vanilla_ice_cream"
+      ]
+    }
+  ]
+}

@@ -443,6 +443,33 @@
   },
   {
     "title": {
+      "en": "Kladkaka",
+      "es": "Kladkaka",
+      "cat": "Kladkaka",
+      "sv": "Kladkaka"
+    },
+    "categories": [
+      "desserts",
+      "baking"
+    ],
+    "path": "recipes/kladkaka.json",
+    "image": "/images/kladkaka/main.webp",
+    "author": "Arnau",
+    "development": false,
+    "ingredient_keys": [
+      "butter",
+      "sugar",
+      "eggs",
+      "vanilla_extract",
+      "salt",
+      "flour",
+      "unsweetened_cocoa_powder",
+      "raspberry",
+      "vanilla_ice_cream"
+    ]
+  },
+  {
+    "title": {
       "en": "Liège-style Waffles",
       "es": "Gofres estilo Lieja",
       "cat": "Gofres de Lieja",
@@ -686,7 +713,7 @@
     "path": "recipes/tarte_tatin.json",
     "image": "/images/tarte_tatin/main.webp",
     "author": "Arnau",
-    "development": true,
+    "development": false,
     "ingredient_keys": [
       "flour",
       "butter",
