@@ -2,6 +2,7 @@ function recipeData() {
   return {
     async loadIndex() {
       const res = await fetch(this.withBase('index.json'));
+      if (!res.ok) throw new Error(`Failed to load index.json: ${res.status}`);
       this.index = await res.json();
       const allCategories = this.index.flatMap(i => i.categories || []);
       this.categories = [...new Set(allCategories)];

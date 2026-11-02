@@ -30,4 +30,4 @@ Static recipe book: HTML + Alpine.js in `docs/`, JSON recipes in `docs/recipes/`
 - `recipe_example.json` uses the legacy `servings` field; new recipes should use the `portion` object (see `prompt.md`).
 
 ## Frontend
-- `docs/index.html` boots Alpine.js (`x-data="recipeApp()"`); `docs/app.js` composes the app from `docs/js/*` feature modules via `Object.assign` of `recipeX()` factories. `docs/components/` holds HTML partials. Production path prefix is `/cook.py` (set in `app.js`).
+- `docs/index.html` boots Alpine.js (`x-data="recipeApp()"`); `docs/app.js` composes the app from `docs/js/*` feature modules via `Object.assign` of `recipeX()` factories. `docs/components/` holds HTML partials. Asset URLs resolve relative to the page directory via `assetPath()` in `docs/js/asset-path.js` (no hardcoded repo prefix).

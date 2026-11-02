@@ -1,6 +1,34 @@
 [
   {
     "title": {
+      "en": "Baked Salmon with Potatoes",
+      "es": "Salmón al horno con patatas",
+      "cat": "Salmó al forn amb patates",
+      "sv": "Ugnsbakad lax med potatis"
+    },
+    "categories": [
+      "mains"
+    ],
+    "path": "recipes/baked_salmon_potatoes.json",
+    "image": "/images/baked_salmon_potatoes/main.webp",
+    "author": "Arnau",
+    "development": false,
+    "ingredient_keys": [
+      "potatoes",
+      "olive_oil",
+      "salt",
+      "black_pepper",
+      "salmon_fillet",
+      "olive_oil",
+      "salt",
+      "black_pepper",
+      "lemon",
+      "garlic",
+      "fresh_herbs"
+    ]
+  },
+  {
+    "title": {
       "en": "Banana Bread",
       "es": "Pan de Plátano",
       "cat": "Pa de Plàtan",

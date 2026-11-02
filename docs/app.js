@@ -17,8 +17,19 @@ function recipeApp() {
     recipeCookMode(),
     recipeSharing(), {
       async init() {
-        this.basePath =
-          location.hostname === 'localhost' || location.hostname === '127.0.0.1' ? '' : '/cooking';
+        try {
+          await this.initApp();
+        } catch (err) {
+          console.error('App initialization failed:', err);
+          const msg = document.createElement('pre');
+          msg.style.cssText = 'padding:1rem;color:#b91c1c;white-space:pre-wrap';
+          msg.textContent = `Failed to start the app: ${err.message}`;
+          document.body.prepend(msg)        } finally {
+          document.documentElement.classList.remove('app-loading', 'route-pending');
+        }
+      },
+
+      async initApp() {
         const savedTheme = localStorage.getItem('theme');
         this.darkMode = savedTheme ? savedTheme === 'dark' : false;
         document.documentElement.classList.toggle('dark', this.darkMode);
@@ -46,7 +57,6 @@ function recipeApp() {
         window.addEventListener('hashchange', () => this.handleRoute());
         await this.handleRoute();
         this.finishRoutePending();
-        document.documentElement.classList.remove('app-loading');
       },
     }
   );

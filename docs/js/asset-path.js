@@ -1,8 +1,7 @@
+// Resolves app-relative paths against the directory serving index.html, so it
+// works at "/", "/<repo>/" or any other deployment prefix.
 function assetPath(relativePath) {
-  const base =
-    location.hostname === 'localhost' || location.hostname === '127.0.0.1' ?
-    '' :
-    '/cook.py';
+  if (!relativePath) return relativePath;
   const p = String(relativePath).replace(/^\//, '');
-  return base ? `${base}/${p}` : p;
+  return new URL(p, new URL('./', location.href)).pathname + '';
 }

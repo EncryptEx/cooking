@@ -18,10 +18,7 @@ function recipeUtils() {
     },
 
     withBase(path) {
-      if (!path) return path;
-      const base = this.basePath.replace(/\/$/, '');
-      const p = String(path).replace(/^\//, '');
-      return base ? `${base}/${p}` : p;
+      return assetPath(path);
     },
 
     formatValue(value) {
