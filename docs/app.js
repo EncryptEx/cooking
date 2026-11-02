@@ -18,7 +18,7 @@ function recipeApp() {
     recipeSharing(), {
       async init() {
         this.basePath =
-          location.hostname === 'localhost' || location.hostname === '127.0.0.1' ? '' : '/cook.py';
+          location.hostname === 'localhost' || location.hostname === '127.0.0.1' ? '' : '/cooking';
         const savedTheme = localStorage.getItem('theme');
         this.darkMode = savedTheme ? savedTheme === 'dark' : false;
         document.documentElement.classList.toggle('dark', this.darkMode);
