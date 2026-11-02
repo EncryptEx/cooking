@@ -1,0 +1,170 @@
+{
+  "title": {
+    "en": "Baked Salmon with Potatoes",
+    "es": "Salmón al horno con patatas",
+    "cat": "Salmó al forn amb patates",
+    "sv": "Ugnsbakad lax med potatis"
+  },
+  "author": "Arnau",
+  "categories": [
+    "mains"
+  ],
+  "image": "/images/baked_salmon_potatoes/main.webp",
+  "description": {
+    "en": "Easy baked salmon with potatoes, ready in about 40–45 minutes. Recipe for 1 person.",
+    "es": "Salmón al horno con patatas fácil, listo en unos 40–45 minutos. Receta para 1 persona.",
+    "cat": "El salmó al forn amb patates és fàcil i en uns 40–45 minuts ho tens fet. Per a 1 persona.",
+    "sv": "Enkel ugnsbakad lax med potatis, klar på ungefär 40–45 minuter. Recept för 1 person."
+  },
+  "portion": {
+    "type": "servings",
+    "value": 1,
+    "unit": "servings"
+  },
+  "ingredients": [
+    {
+      "group": {
+        "en": "Potatoes",
+        "es": "Patatas",
+        "cat": "Patates",
+        "sv": "Potatis"
+      },
+      "items": [
+        {
+          "ingredient": "potatoes",
+          "value": 2,
+          "text": {
+            "en": "medium, thinly sliced",
+            "es": "medianas, cortadas en rodajas finas",
+            "cat": "mitjanes, tallades a rodanxes fines",
+            "sv": "medelstora, tunt skivade"
+          },
+          "id": "potatoes_potatoes"
+        },
+        {
+          "ingredient": "olive_oil",
+          "value": 0,
+          "unit": "as_needed",
+          "id": "potatoes_olive_oil"
+        },
+        {
+          "ingredient": "salt",
+          "value": 0,
+          "unit": "to_taste",
+          "id": "potatoes_salt"
+        },
+        {
+          "ingredient": "black_pepper",
+          "value": 0,
+          "unit": "to_taste",
+          "id": "potatoes_pepper"
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Salmon",
+        "es": "Salmón",
+        "cat": "Salmó",
+        "sv": "Lax"
+      },
+      "items": [
+        {
+          "ingredient": "salmon_fillet",
+          "value": 1,
+          "id": "salmon_fillet"
+        },
+        {
+          "ingredient": "olive_oil",
+          "value": 0,
+          "unit": "as_needed",
+          "id": "salmon_olive_oil"
+        },
+        {
+          "ingredient": "salt",
+          "value": 0,
+          "unit": "to_taste",
+          "id": "salmon_salt"
+        },
+        {
+          "ingredient": "black_pepper",
+          "value": 0,
+          "unit": "to_taste",
+          "id": "salmon_pepper"
+        },
+        {
+          "ingredient": "lemon",
+          "value": 0,
+          "unit": "as_needed",
+          "id": "salmon_lemon"
+        },
+        {
+          "ingredient": "garlic",
+          "value": 0,
+          "unit": "as_needed",
+          "text": {
+            "en": "optional",
+            "es": "opcional",
+            "cat": "opcional",
+            "sv": "valfritt"
+          },
+          "id": "salmon_garlic"
+        },
+        {
+          "ingredient": "fresh_herbs",
+          "value": 0,
+          "unit": "as_needed",
+          "text": {
+            "en": "optional",
+            "es": "opcional",
+            "cat": "opcional",
+            "sv": "valfritt"
+          },
+          "id": "salmon_herbs"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "text": {
+        "en": "Preheat the oven to 200 °C. Cut the potatoes into thin slices, place them on a tray with oil, salt and pepper, and bake them on their own for 25 minutes.",
+        "es": "Calienta el horno a 200 °C. Corta las patatas en rodajas finas, colócalas en una bandeja con aceite, sal y pimienta y hornéalas solas durante 25 minutos.",
+        "cat": "Escalfa el forn a 200 °C. Talla les patates a rodanxes fines, posa-les en una safata amb oli, sal i pebre i deixa-les 25 minuts soles al forn.",
+        "sv": "Förvärm ugnen till 200 °C. Skär potatisen i tunna skivor, lägg dem på en plåt med olja, salt och peppar och grädda dem ensamma i 25 minuter."
+      },
+      "ingredients": [
+        "potatoes_potatoes",
+        "potatoes_olive_oil",
+        "potatoes_salt",
+        "potatoes_pepper"
+      ]
+    },
+    {
+      "text": {
+        "en": "Place the salmon on top of or beside the potatoes with a little oil, salt, pepper and lemon (plus garlic and herbs if you have them), and return to the oven for 12–15 minutes. If the fillet is very thick, give it about 15–18 minutes.",
+        "es": "Coloca el salmón encima o al lado de las patatas con un poco de aceite, sal, pimienta y limón (y ajo y hierbas si tienes) y vuelve a meterlo al horno 12–15 minutos. Si el filete es muy grueso, dale unos 15–18 minutos.",
+        "cat": "Després posa el salmó a sobre o al costat, amb una mica d’oli, sal, pebre i llimona (i all i herbes si en tens), i torna-ho al forn 12–15 minuts. Si el filet és molt gruixut, dona-li uns 15–18 min.",
+        "sv": "Lägg laxen ovanpå eller bredvid potatisen med lite olja, salt, peppar och citron (samt vitlök och örter om du har), och ställ tillbaka i ugnen i 12–15 minuter. Är filén mycket tjock, ge den ca 15–18 minuter."
+      },
+      "ingredients": [
+        "salmon_fillet",
+        "salmon_olive_oil",
+        "salmon_salt",
+        "salmon_pepper",
+        "salmon_lemon",
+        "salmon_garlic",
+        "salmon_herbs"
+      ]
+    },
+    {
+      "text": {
+        "en": "Total time: ~40 minutes. The trick is not to put the salmon and potatoes in at the same time, as the salmon would overcook before the potatoes are done.",
+        "es": "Tiempo total: ~40 minutos. El truco es no poner el salmón y las patatas a la vez, porque el salmón se haría demasiado antes que las patatas.",
+        "cat": "Temps total: ~40 min. El truc és no posar salmó i patates alhora, perquè el salmó es faria massa abans que les patates.",
+        "sv": "Total tid: ~40 minuter. Tricket är att inte lägga in laxen och potatisen samtidigt, eftersom laxen annars skulle bli överbakad innan potatisen är klar."
+      },
+      "ingredients": []
+    }
+  ]
+}

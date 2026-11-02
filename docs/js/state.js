@@ -17,7 +17,6 @@ function recipeAppState() {
       jam: 'mermelada',
     },
     darkMode: false,
-    basePath: '',
     currentServings: 4,
     currentDimensions: {
       width: 20,

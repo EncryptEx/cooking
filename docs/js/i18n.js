@@ -3,6 +3,7 @@ function recipeI18n() {
     async loadTranslations() {
       try {
         const res = await fetch(this.withBase(`translations/${this.lang}.json`));
+        if (!res.ok) throw new Error(res.status);
         this.translations = await res.json();
       } catch {
         console.warn('No translation file found for', this.lang);
@@ -12,6 +13,7 @@ function recipeI18n() {
     async loadEmojis() {
       try {
         const res = await fetch(this.withBase('translations/emoji.json'));
+        if (!res.ok) throw new Error(res.status);
         this.emojis = await res.json();
       } catch {
         console.warn('No emoji file found');
