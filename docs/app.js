@@ -24,8 +24,7 @@ function recipeApp() {
           const msg = document.createElement('pre');
           msg.style.cssText = 'padding:1rem;color:#b91c1c;white-space:pre-wrap';
           msg.textContent = `Failed to start the app: ${err.message}`;
-          document.body.prepend(msg);
-        } finally {
+          document.body.prepend(msg)        } finally {
           document.documentElement.classList.remove('app-loading', 'route-pending');
         }
       },
