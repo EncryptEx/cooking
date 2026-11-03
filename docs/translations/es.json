@@ -71,6 +71,7 @@
     "baking_powder": "levadura química en polvo",
     "baking_soda": "bicarbonato de sodio",
     "banana": "plátano",
+    "bbq_sauce": "salsa barbacoa",
     "bean": "judía",
     "beers": "cervezas",
     "bell_pepper": "pimiento",
@@ -101,11 +102,11 @@
       "1": "tomate triturado",
       "1+": "tomates triturados"
     },
-    "cucumber": "pepino",
     "cuajada": {
       "1": "sobre de cuajada",
       "1+": "sobres de cuajada"
     },
+    "cucumber": "pepino",
     "cupcake": "magdalena",
     "dango": "dango",
     "dark_chocolate": "chocolate negro",
@@ -131,8 +132,6 @@
     "extra_virgin_olive_oil": "aceite de oliva virgen extra",
     "flour": "harina",
     "fortune_cookie": "galleta de la fortuna",
-    "garlic": "ajo",
-    "garlic_powder": "ajo en polvo",
     "fresh_cheese": "queso fresco",
     "fresh_herbs": "hierbas frescas",
     "fresh_mozzarella": {
@@ -140,9 +139,11 @@
       "1+": "Mozzarellas frescas"
     },
     "fries": "patatas fritas",
+    "garlic": "ajo",
+    "garlic_powder": "ajo en polvo",
+    "gochujang": "gochujang",
     "grape": "uva",
     "grated_gouda": "Gouda rallado",
-    "gochujang": "gochujang",
     "greek_yogurt": "yogur griego",
     "guanciale": "guanciale",
     "ham": "jamón ibérico",
@@ -152,8 +153,8 @@
     "honey": "miel",
     "jam": "mermelada",
     "lemon": "limón",
-    "lemon_zest": "ralladura de limón",
     "lemon_peel": "piel de limón",
+    "lemon_zest": "ralladura de limón",
     "lentil": "lenteja",
     "lime": "lima",
     "macaroni": "macarrones",
@@ -193,6 +194,7 @@
     "pineapple": "piña",
     "pizza_toppings": "ingredientes",
     "pork": "carne de cerdo",
+    "pork_ribs": "costillar de cerdo",
     "potatoes": {
       "1": "patata",
       "1+": "patatas"
@@ -206,9 +208,10 @@
     "red_pepper": "pimentón dulce",
     "rolled_oats": "avena laminada",
     "rye_flour": "harina de centeno",
-    "semi_sweet_chocolate_chips": "pepitas de chocolate semi-dulce",
     "salmon_fillet": "filete de salmón",
     "salt": "sal",
+    "semi_sweet_chocolate_chips": "pepitas de chocolate semi-dulce",
+    "spaghetti": "espaguetis",
     "strawberry": "fresa",
     "strong_flour": "harina de fuerza",
     "sugar": "azúcar",

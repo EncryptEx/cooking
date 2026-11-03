@@ -71,6 +71,7 @@
     "baking_powder": "bakpulver",
     "baking_soda": "bikarbonat",
     "banana": "banan",
+    "bbq_sauce": "grillsås",
     "bean": "böna",
     "beers": "öl",
     "bell_pepper": "paprika",
@@ -101,11 +102,11 @@
       "1": "krossad tomat",
       "1+": "krossade tomater"
     },
-    "cucumber": "gurka",
     "cuajada": {
       "1": "påse junketpulver (cuajada)",
       "1+": "påsar junketpulver (cuajada)"
     },
+    "cucumber": "gurka",
     "cupcake": "cupcake",
     "dango": "dango",
     "dark_chocolate": "mörk choklad",
@@ -128,8 +129,6 @@
     "extra_virgin_olive_oil": "extra jungfruolivolja",
     "flour": "mjöl",
     "fortune_cookie": "lyckokaka",
-    "garlic": "vitlök",
-    "garlic_powder": "vitlökspulver",
     "fresh_cheese": "färskost",
     "fresh_herbs": "färska örter",
     "fresh_mozzarella": {
@@ -137,9 +136,11 @@
       "1+": "färska mozzarellor"
     },
     "fries": "pommes frites",
+    "garlic": "vitlök",
+    "garlic_powder": "vitlökspulver",
+    "gochujang": "gochujang",
     "grape": "druva",
     "grated_gouda": "riven gouda",
-    "gochujang": "gochujang",
     "greek_yogurt": "grekisk yoghurt",
     "guanciale": "guanciale",
     "ham": "iberisk skinka",
@@ -149,8 +150,8 @@
     "honey": "honung",
     "jam": "marmelad",
     "lemon": "citron",
-    "lemon_zest": "citronskal",
     "lemon_peel": "citronskal",
+    "lemon_zest": "citronskal",
     "lentil": "lins",
     "lime": "lime",
     "macaroni": "makaroner",
@@ -190,6 +191,7 @@
     "pineapple": "ananas",
     "pizza_toppings": "toppingar",
     "pork": "fläskkött",
+    "pork_ribs": "fläskrevbensspjäll",
     "potatoes": {
       "1": "potatis",
       "1+": "potatisar"
@@ -202,6 +204,7 @@
     "rye_flour": "rågmjöl",
     "salmon_fillet": "laxfilé",
     "salt": "salt",
+    "spaghetti": "spaghetti",
     "strawberry": "jordgubbe",
     "strong_flour": "vetemjöl",
     "sugar": "socker",

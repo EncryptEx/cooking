@@ -1,0 +1,137 @@
+{
+  "title": {
+    "en": "Oven-Baked BBQ Pork Ribs",
+    "es": "Costillar de cerdo al horno con salsa barbacoa",
+    "cat": "Costelles de porc al forn amb salsa barbacoa",
+    "sv": "Ugnsbakade revbensspjäll med grillsås"
+  },
+  "author": "Jaume",
+  "categories": [
+    "mains"
+  ],
+  "description": {
+    "en": "Tender pork ribs slow-baked in foil, then glazed with BBQ sauce.",
+    "es": "Costillar de cerdo tierno cocinado en papel de aluminio y glaseado con salsa barbacoa.",
+    "cat": "Costelles de porc tendres cuites en paper d'alumini i glaçades amb salsa barbacoa.",
+    "sv": "Mört fläskrevben långbakade i folie och glaserade med grillsås."
+  },
+  "portion": {
+    "type": "servings",
+    "value": 4,
+    "unit": "servings"
+  },
+  "ingredients": [
+    {
+      "group": {
+        "en": "Ribs",
+        "es": "Costillar",
+        "cat": "Costelles",
+        "sv": "Revbensspjäll"
+      },
+      "items": [
+        {
+          "ingredient": "pork_ribs",
+          "value": 1,
+          "text": {
+            "en": "rack",
+            "es": "costillar",
+            "cat": "costellam",
+            "sv": "rack"
+          },
+          "id": "pork_ribs"
+        },
+        {
+          "ingredient": "salt",
+          "value": 0,
+          "unit": "to_taste",
+          "id": "salt"
+        },
+        {
+          "ingredient": "black_pepper",
+          "value": 0,
+          "unit": "to_taste",
+          "text": {
+            "en": "ground",
+            "es": "molida",
+            "cat": "mòlt",
+            "sv": "malen"
+          },
+          "id": "black_pepper"
+        },
+        {
+          "ingredient": "olive_oil",
+          "value": 0,
+          "unit": "as_needed",
+          "id": "olive_oil"
+        },
+        {
+          "ingredient": "bbq_sauce",
+          "value": 0,
+          "unit": "as_needed",
+          "id": "bbq_sauce"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "text": {
+        "en": "Remove the membrane from the back of the rack of ribs.",
+        "es": "Quita la membrana que tiene la parte posterior del costillar.",
+        "cat": "Treu la membrana de la part posterior del costellam.",
+        "sv": "Ta bort hinnan på revbenens baksida."
+      },
+      "ingredients": [
+        "pork_ribs"
+      ]
+    },
+    {
+      "text": {
+        "en": "Season with salt, pepper and olive oil, then wrap the ribs in an aluminium foil packet.",
+        "es": "Sazona con sal, pimienta y aceite de oliva y haz un paquete con papel de aluminio con el costillar.",
+        "cat": "Amaneix amb sal, pebre i oli d'oliva i fes un paquet amb paper d'alumini amb el costellam.",
+        "sv": "Krydda med salt, peppar och olivolja och slå in revbenen i ett paket av aluminiumfolie."
+      },
+      "ingredients": [
+        "pork_ribs",
+        "salt",
+        "black_pepper",
+        "olive_oil"
+      ]
+    },
+    {
+      "text": {
+        "en": "Bake for 1 hour 30 minutes at 180 °C, then turn the oven off and leave the ribs inside for 1 more hour, using the residual heat.",
+        "es": "Hornea 1 hora y media a 180 °C, apaga el horno y deja dentro el costillar 1 hora más aprovechando el calor residual.",
+        "cat": "Couen 1 hora i mitja a 180 °C, apaga el forn i deixa-hi dins el costellam 1 hora més aprofitant la calor residual.",
+        "sv": "Grädda i 1 timme och 30 minuter på 180 °C, stäng sedan av ugnen och låt revbenen stå kvar i 1 timme till med resterande värme."
+      },
+      "ingredients": [],
+      "oven": {
+        "temperature": 180,
+        "mode": [
+          "top",
+          "bottom"
+        ]
+      }
+    },
+    {
+      "text": {
+        "en": "Take the ribs out of the foil, brush them with BBQ sauce and give them a blast of heat in the oven for 10 minutes at 240 °C.",
+        "es": "Saca las costillas del papel de aluminio, úntalas con salsa barbacoa y dales un golpe de calor en el horno 10 minutos a 240 °C.",
+        "cat": "Treu les costelles del paper d'alumini, unta-les amb salsa barbacoa i dona'ls un cop de calor al forn 10 minuts a 240 °C.",
+        "sv": "Ta ut revbenen ur folien, pensla dem med grillsås och ge dem en sista omgång i ugnen i 10 minuter på 240 °C."
+      },
+      "ingredients": [
+        "bbq_sauce"
+      ],
+      "oven": {
+        "temperature": 240,
+        "mode": [
+          "top",
+          "bottom"
+        ]
+      }
+    }
+  ]
+}

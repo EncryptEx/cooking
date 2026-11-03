@@ -1,20 +1,20 @@
 {
   "title": {
-    "en": "Pasta Carbonara",
-    "es": "Pasta carbonara",
-    "cat": "Pasta carbonara",
-    "sv": "Pasta carbonara"
+    "en": "Spaghetti Carbonara",
+    "es": "Espaguetis a la carbonara",
+    "cat": "Espaguetis a la carbonara",
+    "sv": "Spaghetti carbonara"
   },
-  "author": "Arnau",
+  "author": "Jaume",
   "categories": [
     "mains"
   ],
   "image": "/images/pasta_carbonara/main.webp",
   "description": {
-    "en": "Classic Roman carbonara for two: silky egg-and-cheese sauce with crispy guanciale or bacon, finished off the heat so the eggs emulsify without scrambling.",
-    "es": "Carbonara clásica romana para dos: salsa sedosa de huevo y queso con guanciale o bacon crujiente, terminada fuera del fuego para que los huevos emulsionen sin cuajar.",
-    "cat": "Carbonara clàssica romana per dos: salsa sedosa d'ou i formatge amb guanciale o bacon cruixent, acabada fora del foc perquè els ous emulsionen sense quallar.",
-    "sv": "Klassisk romersk carbonara för två: silkeslen ägg- och ostås med krispig guanciale eller bacon, avslutad utan värme så att äggen emulgerar utan att stelna."
+    "en": "Roman-style spaghetti carbonara for two, with guanciale, Pecorino Romano and a silky egg sauce emulsified off the heat.",
+    "es": "Espaguetis a la carbonara al estilo romano para dos, con guanciale, pecorino romano y una salsa sedosa de huevo emulsionada fuera del fuego.",
+    "cat": "Espaguetis a la carbonara a l'estil romà per a dues persones, amb guanciale, pecorino romà i una salsa sedosa d'ou emulsionada fora del foc.",
+    "sv": "Romersk spaghetti carbonara för två, med guanciale, Pecorino Romano och en len äggsås som emulgeras utan värme."
   },
   "portion": {
     "type": "servings",
@@ -23,76 +23,103 @@
   },
   "ingredients": [
     {
-      "id": "pasta",
-      "ingredient": "pasta",
-      "value": 250,
-      "unit": "g",
-      "text": {
-        "en": "of your choice",
-        "es": "al gusto",
-        "cat": "al gust",
-        "sv": "valfri sort"
-      }
+      "group": {
+        "en": "Pasta",
+        "es": "Pasta",
+        "cat": "Pasta",
+        "sv": "Pasta"
+      },
+      "items": [
+        {
+          "ingredient": "spaghetti",
+          "value": 210,
+          "unit": "g",
+          "id": "spaghetti"
+        },
+        {
+          "ingredient": "salt",
+          "value": 0,
+          "unit": "to_taste",
+          "text": {
+            "en": "for the pasta water",
+            "es": "para el agua de cocción",
+            "cat": "per a l'aigua de cocció",
+            "sv": "till pastavattnet"
+          },
+          "id": "salt"
+        }
+      ]
     },
     {
-      "id": "cheese",
-      "ingredient": "pecorino_cheese",
-      "value": 40,
-      "unit": "g",
-      "text": {
-        "en": "or Parmesan",
-        "es": "o parmesano",
-        "cat": "o parmesà",
-        "sv": "eller parmesan"
-      }
-    },
-    {
-      "id": "black_pepper",
-      "ingredient": "black_pepper",
-      "value": 0,
-      "unit": "to_taste"
-    },
-    {
-      "id": "guanciale",
-      "ingredient": "guanciale",
-      "value": 100,
-      "unit": "g",
-      "text": {
-        "en": "or bacon",
-        "es": "o bacon",
-        "cat": "o bacon",
-        "sv": "eller bacon"
-      }
-    },
-    {
-      "id": "egg",
-      "ingredient": "eggs",
-      "value": 1
-    },
-    {
-      "id": "egg_yolk",
-      "ingredient": "egg_yolk",
-      "value": 1
+      "group": {
+        "en": "Sauce",
+        "es": "Salsa",
+        "cat": "Salsa",
+        "sv": "Sås"
+      },
+      "items": [
+        {
+          "ingredient": "guanciale",
+          "value": 110,
+          "unit": "g",
+          "text": {
+            "en": "or pancetta",
+            "es": "o panceta",
+            "cat": "o pancetta",
+            "sv": "eller pancetta"
+          },
+          "id": "guanciale"
+        },
+        {
+          "ingredient": "egg_yolk",
+          "value": 3,
+          "id": "egg_yolks"
+        },
+        {
+          "ingredient": "eggs",
+          "value": 1,
+          "text": {
+            "en": "whole",
+            "es": "entero",
+            "cat": "sencer",
+            "sv": "helt"
+          },
+          "id": "whole_egg"
+        },
+        {
+          "ingredient": "pecorino_cheese",
+          "value": 65,
+          "unit": "g",
+          "text": {
+            "en": "Pecorino Romano, finely grated",
+            "es": "Pecorino Romano, rallado muy fino",
+            "cat": "Pecorino Romano, ratllat ben fi",
+            "sv": "Pecorino Romano, finriven"
+          },
+          "id": "pecorino"
+        },
+        {
+          "ingredient": "black_pepper",
+          "value": 0,
+          "unit": "to_taste",
+          "text": {
+            "en": "abundant, freshly ground",
+            "es": "abundante, recién molida",
+            "cat": "abundant, acabat de moldre",
+            "sv": "rikligt, nymalen"
+          },
+          "id": "black_pepper"
+        }
+      ]
     }
   ],
   "instructions": [
     {
       "text": {
-        "en": "Put the pepper in the pan and toast it for 1 minute.",
-        "es": "Pon la pimienta en la sartén y tuesta 1 minuto.",
-        "cat": "Posa el pebre a la paella i torra 1 minut.",
-        "sv": "Lägg peppran i pannan och rosta den i 1 minut."
-      },
-      "ingredients": [
-        "black_pepper"
-      ]
-    },
-    {
-      "text": {
-        "en": "Transfer the pepper to a large bowl. Add the guanciale or bacon to the pan and let it brown.",
-        "es": "Pasa la pimienta a un bol grande. Añade el guanciale o el bacon a la sartén y deja que se dore.",
-        "cat": "Passa el pebre a un bol gran. Afegeix el guanciale o el bacon a la paella i deixa que es dauri.",
-        "sv": "Flytta peppran till en stor skål. Lägg guanciale eller bacon i pannan och låt det bli gyllenbrunt."
+        "en": "Cut the guanciale into thick strips or cubes. Put it in a cold pan with no oil, then cook over medium-low heat for 6–8 minutes, letting the fat render slowly until golden and crisp outside but tender inside. Turn off the heat and leave it in the pan with its rendered fat.",
+        "es": "Corta el guanciale en tiras o dados gruesos. Ponlo en una sartén fría, sin aceite, y cocínalo a fuego medio-bajo durante 6–8 minutos para que suelte la grasa lentamente y quede dorado y crujiente por fuera, pero tierno por dentro. Apaga el fuego y resérvalo en la sartén con su grasa.",
+        "cat": "Talla el guanciale a tires o daus gruixuts. Posa'l en una paella freda, sense oli, i cuina'l a foc mitjà-baix durant 6–8 minuts perquè deixi anar el greix lentament i quedi daurat i cruixent per fora, però tendre per dins. Apaga el foc i reserva'l a la paella amb el seu greix.",
+        "sv": "Skär guancialen i tjocka strimlor eller tärningar. Lägg den i en kall stekpanna utan olja och tillaga på medellåg värme i 6–8 minuter, så att fettet långsamt smälter ut och köttet blir gyllene och knaprigt utanpå men mört inuti. Stäng av värmen och låt den ligga kvar i pannan med fettet."
       },
       "ingredients": [
         "guanciale"
@@ -100,63 +127,67 @@
     },
     {
       "text": {
-        "en": "Meanwhile, cook the pasta in a pot of salted water.",
-        "es": "Mientras tanto, cuece la pasta en una olla con agua salada.",
-        "cat": "Mentrestant, cou la pasta en una olla amb aigua salada.",
-        "sv": "Koka under tiden pastan i en kastrull med saltat vatten."
+        "en": "In a bowl, whisk together the egg yolks, whole egg, finely grated Pecorino Romano and plenty of freshly ground black pepper until thick and smooth. Whisk in one tablespoon of pasta water that is hot but not boiling to begin loosening the mixture.",
+        "es": "En un bol, mezcla las yemas, el huevo entero, el Pecorino Romano rallado muy fino y abundante pimienta negra recién molida hasta obtener una pasta espesa y homogénea. Añade una cucharada de agua de cocción caliente, pero que no esté hirviendo, para empezar a aligerar la mezcla.",
+        "cat": "En un bol, barreja els rovells, l'ou sencer, el Pecorino Romano ratllat ben fi i força pebre negre acabat de moldre fins a obtenir una pasta espessa i homogènia. Afegeix-hi una cullerada d'aigua de cocció calenta, però no bullent, per començar a afluixar la barreja.",
+        "sv": "Vispa ihop äggulorna, det hela ägget, finriven Pecorino Romano och rikligt med nymalen svartpeppar i en skål tills blandningen är tjock och jämn. Vispa i en matsked pastavatten som är varmt men inte kokande för att börja tunna ut blandningen."
       },
       "ingredients": [
-        "pasta"
+        "egg_yolks",
+        "whole_egg",
+        "pecorino",
+        "black_pepper"
       ]
     },
     {
       "text": {
-        "en": "Add the egg and egg yolk to the bowl and beat them.",
-        "es": "Añade el huevo y la yema al bol y bátelos.",
-        "cat": "Afegeix l'ou i el rovell al bol i bateu-los.",
-        "sv": "Tillsätt ägget och äggulan i skålen och vispa dem."
+        "en": "Boil the spaghetti in water seasoned with a little salt. Cook it about 1 minute less than the package instructions. Before draining, reserve a large cup of pasta water.",
+        "es": "Cuece los espaguetis en agua con un poco de sal, aproximadamente 1 minuto menos de lo que indica el paquete. Antes de escurrirlos, reserva una taza grande del agua de cocción.",
+        "cat": "Bull els espaguetis en aigua amb una mica de sal, aproximadament 1 minut menys del temps indicat al paquet. Abans d'escórrer-los, reserva una tassa gran d'aigua de cocció.",
+        "sv": "Koka spaghettin i vatten med lite salt, ungefär 1 minut kortare än vad paketet anger. Spara en stor kopp pastavatten innan du häller av pastan."
       },
       "ingredients": [
-        "egg",
-        "egg_yolk"
+        "spaghetti",
+        "salt"
       ]
     },
     {
       "text": {
-        "en": "Add the cheese and mix again with a whisk.",
-        "es": "Añade el queso y vuelve a mezclar con unas varillas.",
-        "cat": "Afegeix el formatge i torna a barrejar amb unes varetes.",
-        "sv": "Tillsätt osten och rör om igen med en visp."
+        "en": "Return the pan with the guanciale to low heat. Add the spaghetti and a little pasta water, then stir for 30–60 seconds so the pasta absorbs the rendered fat. Turn off the heat and move the pan off the burner.",
+        "es": "Vuelve a poner a fuego bajo la sartén con el guanciale. Añade los espaguetis y un poco de agua de cocción, y remueve durante 30–60 segundos para que la pasta absorba la grasa. Apaga el fuego y aparta la sartén del fogón.",
+        "cat": "Torna a posar a foc baix la paella amb el guanciale. Afegeix-hi els espaguetis i una mica d'aigua de cocció, i remena-ho durant 30–60 segons perquè la pasta absorbeixi el greix. Apaga el foc i aparta la paella del fogó.",
+        "sv": "Ställ tillbaka pannan med guancialen på låg värme. Lägg i spaghettin och lite pastavatten och rör om i 30–60 sekunder så att pastan absorberar fettet. Stäng av värmen och flytta pannan från plattan."
       },
       "ingredients": [
-        "cheese"
+        "guanciale",
+        "spaghetti"
       ]
     },
     {
       "text": {
-        "en": "When the guanciale or bacon is golden, pour the rendered fat into the bowl and whisk quickly so it emulsifies slightly. Add the meat back to the bowl.",
-        "es": "Cuando el guanciale o el bacon esté dorado, vierte la grasa en el bol y bate rápido con las varillas para que emulsione un poco. Añade el bacon.",
-        "cat": "Quan el guanciale o el bacon estigui daurat, aboca el greix al bol i bat ràpid amb les varetes perquè emulsioni un poc. Afegeix el bacon.",
-        "sv": "När guanciale eller bacon är gyllenbrunt, häll fettet i skålen och vispa snabbt så att det emulgerar lite. Lägg till köttet i skålen."
+        "en": "Wait 20–30 seconds for the pan to cool slightly. Add the egg and cheese mixture and stir constantly, adding small splashes of pasta water until the sauce is glossy and creamy. Do not return the pan to high heat or the eggs may scramble. The residual heat from the pasta and pan should gently thicken the sauce; aim for about 65–70 °C without letting it curdle.",
+        "es": "Espera 20–30 segundos para que la sartén pierda un poco de temperatura. Añade la mezcla de huevo y queso y remueve constantemente, incorporando pequeñas cantidades de agua de cocción hasta que la salsa quede brillante y cremosa. No vuelvas a poner la sartén a fuego fuerte o los huevos podrían cuajarse. El calor residual de la pasta y la sartén debe espesar suavemente la salsa; procura alcanzar unos 65–70 °C sin que se cuaje.",
+        "cat": "Espera 20–30 segons perquè la paella perdi una mica de temperatura. Incorpora-hi la barreja d'ou i formatge i remena constantment, afegint-hi petites quantitats d'aigua de cocció fins que la salsa quedi brillant i cremosa. No tornis a posar la paella a foc fort o els ous quallaran. La calor residual de la pasta i la paella ha d'espessir suaument la salsa; intenta arribar a uns 65–70 °C sense que es qualli.",
+        "sv": "Vänta 20–30 sekunder så att pannan svalnar något. Tillsätt ägg- och ostblandningen och rör hela tiden. Tillsätt lite pastavatten i taget tills såsen blir blank och krämig. Sätt inte tillbaka pannan på hög värme, då kan äggen bli till äggröra. Pastans och pannans eftervärme ska försiktigt tjockna såsen; sikta på cirka 65–70 °C utan att den skär sig."
       },
-      "ingredients": []
+      "ingredients": [
+        "egg_yolks",
+        "whole_egg",
+        "pecorino",
+        "spaghetti"
+      ]
     },
     {
       "text": {
-        "en": "When the pasta is al dente, drain it — it does not need to be fully dry — and quickly transfer it to the bowl. Mix fast so the sauce sets with the residual heat from the pasta.",
-        "es": "Cuando la pasta esté al dente, escúrrala — no hace falta que esté seca — y ponla rápido en el bol. Mezcla rápido para que la salsa se cueza con el calor residual de la pasta.",
-        "cat": "Quan la pasta estigui al dente, escorre-la — no cal que estigui seca — i posa-la ràpid al bol. Barreja ràpid perquè la salsa es cuï amb el calor residual de la pasta.",
-        "sv": "När pastan är al dente, häll av den — den behöver inte vara helt torr — och lägg den snabbt i skålen. Rör om hastigt så att såsen sätter sig med residualvärmen från pastan."
+        "en": "Serve immediately with extra finely grated Pecorino Romano and black pepper. The rendered guanciale fat provides the flavor, finely grated cheese blends smoothly, and starchy pasta water brings the sauce together. The result should be silky and glossy, clinging to the spaghetti.",
+        "es": "Sirve inmediatamente con más Pecorino Romano rallado fino y pimienta negra. La grasa del guanciale aporta el sabor, el queso rallado fino se integra mejor y el almidón del agua de cocción emulsiona la salsa. Debe quedar sedosa y brillante, adherida a los espaguetis.",
+        "cat": "Serveix-ho de seguida amb més Pecorino Romano ratllat ben fi i pebre negre. El greix del guanciale aporta el sabor, el formatge ratllat ben fi s'integra millor i el midó de l'aigua de cocció ajuda a emulsionar la salsa. Ha de quedar sedosa i brillant, enganxada als espaguetis.",
+        "sv": "Servera genast med extra finriven Pecorino Romano och svartpeppar. Guancialefettet står för smaken, finriven ost blandas lättare och stärkelsen i pastavattnet binder ihop såsen. Resultatet ska bli silkeslent och blankt och fastna på spaghettin."
       },
-      "ingredients": []
-    },
-    {
-      "text": {
-        "en": "Serve immediately — carbonara is best eaten hot and fresh. Enjoy!",
-        "es": "Sirve al momento — la carbonara se disfruta mejor caliente y recién hecha. ¡A comer!",
-        "cat": "Serveix al moment — la carbonara es gaudeix millor calenta i acabada de fer. Bon profit!",
-        "sv": "Servera direkt — carbonara är bäst varm och nygjord. Smaklig måltid!"
-      }
+      "ingredients": [
+        "pecorino",
+        "black_pepper"
+      ]
     }
   ]
 }

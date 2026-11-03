@@ -11,7 +11,7 @@
     ],
     "path": "recipes/baked_salmon_potatoes.json",
     "image": "/images/baked_salmon_potatoes/main.webp",
-    "author": "Arnau",
+    "author": "Jaume",
     "development": false,
     "ingredient_keys": [
       "potatoes",
@@ -601,25 +601,24 @@
   },
   {
     "title": {
-      "en": "Pasta Carbonara",
-      "es": "Pasta carbonara",
-      "cat": "Pasta carbonara",
-      "sv": "Pasta carbonara"
+      "en": "Oven-Baked BBQ Pork Ribs",
+      "es": "Costillar de cerdo al horno con salsa barbacoa",
+      "cat": "Costelles de porc al forn amb salsa barbacoa",
+      "sv": "Ugnsbakade revbensspjäll med grillsås"
     },
     "categories": [
       "mains"
     ],
-    "path": "recipes/pasta_carbonara.json",
-    "image": "/images/pasta_carbonara/main.webp",
-    "author": "Arnau",
+    "path": "recipes/bbq_pork_ribs.json",
+    "image": "",
+    "author": "Jaume",
     "development": false,
     "ingredient_keys": [
-      "pasta",
-      "pecorino_cheese",
+      "pork_ribs",
+      "salt",
       "black_pepper",
-      "guanciale",
-      "eggs",
-      "egg_yolk"
+      "olive_oil",
+      "bbq_sauce"
     ]
   },
   {
@@ -679,6 +678,30 @@
       "dark_chocolate",
       "sugar",
       "water"
+    ]
+  },
+  {
+    "title": {
+      "en": "Spaghetti Carbonara",
+      "es": "Espaguetis a la carbonara",
+      "cat": "Espaguetis a la carbonara",
+      "sv": "Spaghetti carbonara"
+    },
+    "categories": [
+      "mains"
+    ],
+    "path": "recipes/pasta_carbonara.json",
+    "image": "/images/pasta_carbonara/main.webp",
+    "author": "Jaume",
+    "development": false,
+    "ingredient_keys": [
+      "spaghetti",
+      "salt",
+      "guanciale",
+      "egg_yolk",
+      "eggs",
+      "pecorino_cheese",
+      "black_pepper"
     ]
   },
   {

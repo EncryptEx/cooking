@@ -71,6 +71,7 @@
     "baking_powder": "baking powder",
     "baking_soda": "baking soda",
     "banana": "banana",
+    "bbq_sauce": "BBQ sauce",
     "bean": "bean",
     "beers": "beers",
     "bell_pepper": "bell pepper",
@@ -101,11 +102,11 @@
       "1": "crushed tomato",
       "1+": "crushed tomatoes"
     },
-    "cucumber": "cucumber",
     "cuajada": {
       "1": "packet of junket powder (cuajada)",
       "1+": "packets of junket powder (cuajada)"
     },
+    "cucumber": "cucumber",
     "cupcake": "cupcake",
     "dango": "dango",
     "dark_chocolate": "dark chocolate",
@@ -131,8 +132,6 @@
     "extra_virgin_olive_oil": "extra virgin olive oil",
     "flour": "flour",
     "fortune_cookie": "fortune cookie",
-    "garlic": "garlic",
-    "garlic_powder": "garlic powder",
     "fresh_cheese": "fresh cheese",
     "fresh_herbs": "fresh herbs",
     "fresh_mozzarella": {
@@ -140,9 +139,11 @@
       "1+": "fresh Mozzarellas"
     },
     "fries": "fries",
+    "garlic": "garlic",
+    "garlic_powder": "garlic powder",
+    "gochujang": "gochujang",
     "grape": "grape",
     "grated_gouda": "grated Gouda",
-    "gochujang": "gochujang",
     "greek_yogurt": "Greek yogurt",
     "guanciale": "guanciale",
     "ham": "Iberian cured ham",
@@ -152,8 +153,8 @@
     "honey": "honey",
     "jam": "jam",
     "lemon": "lemon",
-    "lemon_zest": "lemon zest",
     "lemon_peel": "lemon peel",
+    "lemon_zest": "lemon zest",
     "lentil": "lentil",
     "lime": "lime",
     "macaroni": "macaroni",
@@ -193,6 +194,7 @@
     "pineapple": "pineapple",
     "pizza_toppings": "toppings",
     "pork": "pork",
+    "pork_ribs": "pork ribs",
     "potatoes": {
       "1": "potato",
       "1+": "potatoes"
@@ -206,9 +208,10 @@
     "red_pepper": "sweet paprika",
     "rolled_oats": "rolled oats",
     "rye_flour": "rye flour",
-    "semi_sweet_chocolate_chips": "semi-sweet chocolate chips",
     "salmon_fillet": "salmon fillet",
     "salt": "salt",
+    "semi_sweet_chocolate_chips": "semi-sweet chocolate chips",
+    "spaghetti": "spaghetti",
     "strawberry": "strawberry",
     "strong_flour": "strong flour",
     "sugar": "sugar",
