@@ -728,6 +728,35 @@
   },
   {
     "title": {
+      "en": "Stewed Lentils with Chorizo and Bacon",
+      "es": "Lentejas estofadas con chorizo y bacon",
+      "cat": "Llenties estofades amb xoriço i bacon",
+      "sv": "Linsgryta med chorizo och bacon"
+    },
+    "categories": [
+      "mains"
+    ],
+    "path": "recipes/lentejas_estofadas.json",
+    "image": "",
+    "author": "Jaume",
+    "development": false,
+    "ingredient_keys": [
+      "lentil",
+      "onion",
+      "potatoes",
+      "crushed_tomato",
+      "water",
+      "bacon",
+      "chorizo",
+      "olive_oil",
+      "salt",
+      "black_pepper",
+      "red_pepper",
+      "bay_leaf"
+    ]
+  },
+  {
+    "title": {
       "en": "Tarta de Santiago",
       "es": "Tarta de Santiago",
       "cat": "Pastís de Santiago",

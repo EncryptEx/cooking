@@ -1,0 +1,293 @@
+{
+  "title": {
+    "en": "Stewed Lentils with Chorizo and Bacon",
+    "es": "Lentejas estofadas con chorizo y bacon",
+    "cat": "Llenties estofades amb xoriço i bacon",
+    "sv": "Linsgryta med chorizo och bacon"
+  },
+  "author": "Jaume",
+  "categories": [
+    "mains"
+  ],
+  "description": {
+    "en": "A hearty lentil stew with potato, chorizo and bacon, simmered until tender and rested until thick.",
+    "es": "Un contundente guiso de lentejas con patata, chorizo y bacon, cocinado a fuego lento hasta que quede tierno y reposado para espesar.",
+    "cat": "Un estofat de llenties ben complet amb patata, xoriço i bacon, fet xup-xup fins que quedi tendre i deixat reposar perquè espesseixi.",
+    "sv": "En mustig linsgryta med potatis, chorizo och bacon, sjuden tills allt är mört och vilad tills grytan tjocknar."
+  },
+  "portion": {
+    "type": "servings",
+    "value": 2,
+    "unit": "servings"
+  },
+  "ingredients": [
+    {
+      "group": {
+        "en": "Lentils and vegetables",
+        "es": "Lentejas y verduras",
+        "cat": "Llenties i verdures",
+        "sv": "Linser och grönsaker"
+      },
+      "items": [
+        {
+          "ingredient": "lentil",
+          "value": 190,
+          "unit": "g",
+          "text": {
+            "en": "dried; regular brown lentils do not need soaking",
+            "es": "secas; las lentejas pardinas normales no necesitan remojo",
+            "cat": "seques; les llenties pardines normals no cal remullar-les",
+            "sv": "torkade; vanliga bruna linser behöver inte blötläggas"
+          },
+          "id": "lentils"
+        },
+        {
+          "ingredient": "onion",
+          "value": 1,
+          "text": {
+            "en": "medium, finely chopped",
+            "es": "mediana, picada fina",
+            "cat": "mitjana, picada ben petita",
+            "sv": "medelstor, finhackad"
+          },
+          "id": "onion"
+        },
+        {
+          "ingredient": "potatoes",
+          "value": 1,
+          "text": {
+            "en": "medium to large, cut into 2–3 cm pieces",
+            "es": "mediana o grande, cortada en trozos de 2–3 cm",
+            "cat": "mitjana o gran, tallada a trossos de 2–3 cm",
+            "sv": "medelstor till stor, skuren i 2–3 cm stora bitar"
+          },
+          "id": "potato"
+        },
+        {
+          "ingredient": "crushed_tomato",
+          "value": 125,
+          "unit": "g",
+          "id": "tomato"
+        },
+        {
+          "ingredient": "water",
+          "value": 650,
+          "unit": "ml",
+          "text": {
+            "en": "add more hot water if needed",
+            "es": "añade más agua caliente si hace falta",
+            "cat": "afegeix-hi més aigua calenta si cal",
+            "sv": "tillsätt mer varmt vatten vid behov"
+          },
+          "id": "water"
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Meat and seasoning",
+        "es": "Carne y condimentos",
+        "cat": "Carn i condiments",
+        "sv": "Kött och kryddning"
+      },
+      "items": [
+        {
+          "ingredient": "bacon",
+          "value": 85,
+          "unit": "g",
+          "text": {
+            "en": "cut into strips or cubes",
+            "es": "cortado en tiras o dados",
+            "cat": "tallat a tires o daus",
+            "sv": "skuren i strimlor eller tärningar"
+          },
+          "id": "bacon"
+        },
+        {
+          "ingredient": "chorizo",
+          "value": 90,
+          "unit": "g",
+          "text": {
+            "en": "sliced",
+            "es": "en rodajas",
+            "cat": "tallat a rodanxes",
+            "sv": "skivad"
+          },
+          "id": "chorizo"
+        },
+        {
+          "ingredient": "olive_oil",
+          "value": 1,
+          "unit": "tbsp",
+          "id": "olive_oil"
+        },
+        {
+          "ingredient": "salt",
+          "value": 0,
+          "unit": "to_taste",
+          "text": {
+            "en": "adjust at the end",
+            "es": "ajustar al final",
+            "cat": "ajusta-la al final",
+            "sv": "smaka av på slutet"
+          },
+          "id": "salt"
+        },
+        {
+          "ingredient": "black_pepper",
+          "value": 0,
+          "unit": "as_needed",
+          "text": {
+            "en": "optional",
+            "es": "opcional",
+            "cat": "opcional",
+            "sv": "valfritt"
+          },
+          "id": "black_pepper"
+        },
+        {
+          "ingredient": "red_pepper",
+          "value": 0,
+          "unit": "as_needed",
+          "text": {
+            "en": "optional; sweet or smoked paprika",
+            "es": "opcional; pimentón dulce o ahumado",
+            "cat": "opcional; pebre vermell dolç o fumat",
+            "sv": "valfritt; söt eller rökt paprikapulver"
+          },
+          "id": "paprika"
+        },
+        {
+          "ingredient": "bay_leaf",
+          "value": 1,
+          "text": {
+            "en": "optional",
+            "es": "opcional",
+            "cat": "opcional",
+            "sv": "valfritt"
+          },
+          "id": "bay_leaf"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "text": {
+        "en": "Finely chop the onion, cut the bacon into strips or cubes, slice the chorizo and cut the potato into 2–3 cm pieces. Rinse the lentils under running water. Regular brown lentils do not need soaking.",
+        "es": "Pica fina la cebolla, corta el bacon en tiras o dados, corta el chorizo en rodajas y la patata en trozos de 2–3 cm. Enjuaga las lentejas bajo el grifo. Las lentejas pardinas normales no necesitan remojo.",
+        "cat": "Pica ben petita la ceba, talla el bacon a tires o daus, el xoriço a rodanxes i la patata a trossos de 2–3 cm. Renta les llenties sota l'aixeta. Les llenties pardines normals no cal remullar-les.",
+        "sv": "Finhacka löken, skär baconet i strimlor eller tärningar, skiva chorizon och skär potatisen i 2–3 cm stora bitar. Skölj linserna under rinnande vatten. Vanliga bruna linser behöver inte blötläggas."
+      },
+      "ingredients": [
+        "onion",
+        "bacon",
+        "chorizo",
+        "potato",
+        "lentils"
+      ]
+    },
+    {
+      "text": {
+        "en": "Heat the olive oil in a pot over medium heat. Add the onion and a small pinch of salt. Cook for 6–8 minutes, stirring, until softened.",
+        "es": "Calienta el aceite de oliva en una olla a fuego medio. Añade la cebolla y una pizca pequeña de sal. Cocina durante 6–8 minutos, removiendo, hasta que esté blanda.",
+        "cat": "Escalfa l'oli d'oliva en una olla a foc mitjà. Afegeix-hi la ceba i un pessic petit de sal. Cuina-la durant 6–8 minuts, remenant, fins que estigui tova.",
+        "sv": "Hetta upp olivoljan i en kastrull på medelvärme. Tillsätt löken och en liten nypa salt. Fräs i 6–8 minuter under omrörning tills löken mjuknar."
+      },
+      "ingredients": [
+        "olive_oil",
+        "onion",
+        "salt"
+      ]
+    },
+    {
+      "text": {
+        "en": "Add the bacon and chorizo and cook for 3–4 minutes. They will release plenty of fat, so no extra oil is needed.",
+        "es": "Añade el bacon y el chorizo y cocina durante 3–4 minutos. Soltarán bastante grasa, así que no hace falta añadir más aceite.",
+        "cat": "Afegeix-hi el bacon i el xoriço i cuina'ls durant 3–4 minuts. Deixaran anar força greix, així que no cal afegir-hi més oli.",
+        "sv": "Tillsätt bacon och chorizo och stek i 3–4 minuter. De släpper mycket fett, så du behöver inte tillsätta mer olja."
+      },
+      "ingredients": [
+        "bacon",
+        "chorizo"
+      ]
+    },
+    {
+      "text": {
+        "en": "Stir in the crushed tomato and cook for 4–5 minutes until some of its water has evaporated and it has thickened. If using paprika, stir it in for the final 20–30 seconds so it does not burn.",
+        "es": "Añade el tomate triturado y cocina durante 4–5 minutos, hasta que pierda parte del agua y se concentre. Si usas pimentón, incorpóralo durante los últimos 20–30 segundos para que no se queme.",
+        "cat": "Afegeix-hi el tomàquet triturat i cuina'l durant 4–5 minuts, fins que perdi part de l'aigua i quedi més concentrat. Si hi poses pebre vermell, afegeix-lo durant els últims 20–30 segons perquè no es cremi.",
+        "sv": "Rör ner de krossade tomaterna och tillaga i 4–5 minuter tills en del av vätskan har kokat bort och tomaten har tjocknat. Rör ner paprikapulver under de sista 20–30 sekunderna om du använder det, så att det inte bränns."
+      },
+      "ingredients": [
+        "tomato",
+        "paprika"
+      ]
+    },
+    {
+      "text": {
+        "en": "Add the lentils and potato and stir for about 30 seconds so they are coated in the sofrito.",
+        "es": "Añade las lentejas y la patata y remueve durante unos 30 segundos para que se impregnen del sofrito.",
+        "cat": "Afegeix-hi les llenties i la patata i remena-ho durant uns 30 segons perquè s'impregnin del sofregit.",
+        "sv": "Tillsätt linserna och potatisen och rör om i cirka 30 sekunder så att de täcks av sofriton."
+      },
+      "ingredients": [
+        "lentils",
+        "potato"
+      ]
+    },
+    {
+      "text": {
+        "en": "Pour in 600 ml of water to start, enough to cover the lentils by about 2 cm. Add the bay leaf and optional black pepper if using. You can add more water later if needed.",
+        "es": "Vierte primero 600 ml de agua, lo suficiente para cubrir las lentejas unos 2 cm. Añade la hoja de laurel y pimienta negra si quieres. Más adelante puedes añadir más agua si hace falta.",
+        "cat": "Aboca-hi primer 600 ml d'aigua, prou per cobrir les llenties uns 2 cm. Afegeix-hi la fulla de llorer i pebre negre si en vols. Més endavant, sempre hi pots afegir més aigua si cal.",
+        "sv": "Häll först i 600 ml vatten, så att linserna täcks med ungefär 2 cm. Tillsätt lagerblad och svartpeppar om du vill. Du kan fylla på med mer vatten senare vid behov."
+      },
+      "ingredients": [
+        "water",
+        "bay_leaf",
+        "black_pepper"
+      ]
+    },
+    {
+      "text": {
+        "en": "Bring to a boil, then reduce the heat to low-medium so the stew simmers gently. Partially cover the pot and cook for 30–40 minutes, stirring occasionally. Start checking the lentils after 25 minutes.",
+        "es": "Lleva a ebullición y después baja el fuego a medio-bajo para que hierva suavemente. Tapa la olla parcialmente y cocina durante 30–40 minutos, removiendo de vez en cuando. Empieza a comprobar las lentejas a partir de los 25 minutos.",
+        "cat": "Fes que arrenqui el bull i després abaixa el foc a baix-mitjà perquè faci xup-xup suaument. Tapa parcialment l'olla i cuina-ho durant 30–40 minuts, remenant de tant en tant. Comença a comprovar les llenties a partir dels 25 minuts.",
+        "sv": "Koka upp och sänk sedan värmen till låg–medel så att grytan sjuder försiktigt. Lägg på locket delvis och koka i 30–40 minuter under omrörning då och då. Börja kontrollera linserna efter 25 minuter."
+      },
+      "ingredients": [
+        "lentils",
+        "water"
+      ]
+    },
+    {
+      "text": {
+        "en": "If the stew becomes too thick before the lentils are tender, add 50–100 ml hot water at a time. Once the lentils and potato are tender, taste and adjust the salt; the bacon and chorizo are already salty.",
+        "es": "Si el guiso se espesa demasiado antes de que las lentejas estén tiernas, añade 50–100 ml de agua caliente cada vez. Cuando las lentejas y la patata estén tiernas, prueba y ajusta la sal; el bacon y el chorizo ya son salados.",
+        "cat": "Si el guisat s'espesseix massa abans que les llenties estiguin tendres, afegeix-hi 50–100 ml d'aigua calenta cada vegada. Quan les llenties i la patata estiguin tendres, tasta-ho i ajusta'n la sal; el bacon i el xoriço ja són salats.",
+        "sv": "Om grytan blir för tjock innan linserna är mjuka, tillsätt 50–100 ml varmt vatten åt gången. Smaka av med salt när linserna och potatisen är mjuka; baconet och chorizon är redan salta."
+      },
+      "ingredients": [
+        "water",
+        "lentils",
+        "potato",
+        "salt",
+        "bacon",
+        "chorizo"
+      ]
+    },
+    {
+      "text": {
+        "en": "Turn off the heat and let the stew rest for 5–10 minutes so the broth thickens. For a thicker stew, mash 2–3 pieces of potato against the side of the pot and stir them in. For a soupier result, add a little more water.",
+        "es": "Apaga el fuego y deja reposar el guiso durante 5–10 minutos para que el caldo espese. Si lo quieres más espeso, aplasta 2–3 trozos de patata contra la pared de la olla y remueve. Si lo prefieres más caldoso, añade un poco más de agua.",
+        "cat": "Apaga el foc i deixa reposar el guisat durant 5–10 minuts perquè el brou s'espesseixi. Si el vols més espès, aixafa 2–3 trossos de patata contra la paret de l'olla i remena-ho. Si el vols més caldós, afegeix-hi una mica més d'aigua.",
+        "sv": "Stäng av värmen och låt grytan vila i 5–10 minuter så att buljongen tjocknar. Mosa 2–3 potatisbitar mot kastrullens sida och rör ner dem om du vill ha en tjockare gryta. Tillsätt lite mer vatten om du vill ha den tunnare."
+      },
+      "ingredients": [
+        "potato",
+        "water"
+      ]
+    }
+  ]
+}
