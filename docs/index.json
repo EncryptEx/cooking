@@ -610,7 +610,7 @@
       "mains"
     ],
     "path": "recipes/bbq_pork_ribs.json",
-    "image": "",
+    "image": "/images/bbq_pork_ribs/main.webp",
     "author": "Jaume",
     "development": false,
     "ingredient_keys": [
@@ -737,7 +737,7 @@
       "mains"
     ],
     "path": "recipes/lentejas_estofadas.json",
-    "image": "",
+    "image": "/images/lentejas_estofadas/main.webp",
     "author": "Jaume",
     "development": false,
     "ingredient_keys": [
