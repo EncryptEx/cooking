@@ -1,0 +1,225 @@
+{
+  "title": {
+    "en": "Chicken with Soy and Honey",
+    "es": "Pollo con soja y miel",
+    "cat": "Pollastre amb soja i mel",
+    "sv": "Kyckling med soja och honung"
+  },
+  "author": "Jaume",
+  "development": false,
+  "categories": [
+    "mains"
+  ],
+  "image": "/images/pollastre_soja_mel/main.webp",
+  "description": {
+    "en": "Pan-fried chicken in a glossy soy and honey sauce. Serves 2–3.",
+    "es": "Pollo dorado con una salsa brillante de soja y miel. Para 2–3 personas.",
+    "cat": "Pollastre daurat amb una salsa de soja i mel, brillant i caramel·litzada. Per a 2–3 persones.",
+    "sv": "Stekt kyckling i en blank sojasås med honung. För 2–3 portioner."
+  },
+  "portion": {
+    "type": "servings",
+    "value": 2,
+    "unit": "servings",
+    "text": {
+      "en": "2–3",
+      "es": "2–3",
+      "cat": "2–3",
+      "sv": "2–3"
+    }
+  },
+  "ingredients": [
+    {
+      "group": {
+        "en": "Chicken",
+        "es": "Pollo",
+        "cat": "Pollastre",
+        "sv": "Kyckling"
+      },
+      "items": [
+        {
+          "id": "chicken",
+          "ingredient": "chicken",
+          "value": 600,
+          "unit": "g"
+        },
+        {
+          "id": "cornstarch",
+          "ingredient": "cornstarch",
+          "value": 1,
+          "unit": "tbsp",
+          "text": {
+            "en": "optional, to make it crispier",
+            "es": "opcional, para hacerlo más crujiente",
+            "cat": "opcional, per fer-lo més cruixent",
+            "sv": "valfritt, för att göra den knaprigare"
+          }
+        },
+        {
+          "id": "olive_oil",
+          "ingredient": "olive_oil",
+          "value": 2,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Sauce",
+        "es": "Salsa",
+        "cat": "Salsa",
+        "sv": "Sås"
+      },
+      "items": [
+        {
+          "id": "soy_sauce",
+          "ingredient": "soy_sauce",
+          "value": 5,
+          "unit": "tbsp"
+        },
+        {
+          "id": "honey",
+          "ingredient": "honey",
+          "value": 2.5,
+          "unit": "tbsp"
+        },
+        {
+          "id": "garlic",
+          "ingredient": "garlic",
+          "value": 2,
+          "unit": "unit",
+          "text": {
+            "en": "cloves, minced",
+            "es": "dientes, picados",
+            "cat": "grans, picats",
+            "sv": "klyftor, hackade"
+          }
+        },
+        {
+          "id": "lemon",
+          "ingredient": "lemon",
+          "value": 1,
+          "unit": "tbsp",
+          "text": {
+            "en": "juice or vinegar, optional",
+            "es": "en zumo o vinagre, opcional",
+            "cat": "en suc o vinagre, opcional",
+            "sv": "saft eller vinäger, valfritt"
+          }
+        },
+        {
+          "id": "water",
+          "ingredient": "water",
+          "value": 2,
+          "unit": "tbsp",
+          "text": {
+            "en": "(2–3 tablespoons)",
+            "es": "(2–3 cucharadas)",
+            "cat": "(2–3 culleres)",
+            "sv": "(2–3 msk)"
+          }
+        },
+        {
+          "id": "black_pepper",
+          "ingredient": "black_pepper",
+          "value": 0,
+          "unit": "to_taste"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "text": {
+        "en": "Cut the chicken into cubes.",
+        "es": "Corta el pollo a dados.",
+        "cat": "Talla el pollastre a daus.",
+        "sv": "Skär kycklingen i tärningar."
+      },
+      "ingredients": [
+        "chicken"
+      ]
+    },
+    {
+      "text": {
+        "en": "Mix the soy sauce, honey, garlic, lemon and water in a bowl.",
+        "es": "Mezcla en un bol la soja, la miel, el ajo, el limón y el agua.",
+        "cat": "Barreja en un bol la soja, la mel, l'all, la llimona i l'aigua.",
+        "sv": "Blanda sojasås, honung, vitlök, citron och vatten i en skål."
+      },
+      "ingredients": [
+        "soy_sauce",
+        "honey",
+        "garlic",
+        "lemon",
+        "water"
+      ]
+    },
+    {
+      "text": {
+        "en": "If you have cornstarch, lightly coat the chicken.",
+        "es": "Si tienes maicena, cubre ligeramente el pollo.",
+        "cat": "Si tens maizena, recobreix lleugerament el pollastre.",
+        "sv": "Om du har majsstärkelse, vänd kycklingen lätt i den."
+      },
+      "ingredients": [
+        "cornstarch",
+        "chicken"
+      ]
+    },
+    {
+      "text": {
+        "en": "Heat the oil in a frying pan over medium-high heat.",
+        "es": "Calienta el aceite en una sartén a fuego medio-alto.",
+        "cat": "Escalfa l'oli en una paella a foc mitjà-alt.",
+        "sv": "Hetta upp oljan i en stekpanna på medelhög värme."
+      },
+      "ingredients": [
+        "olive_oil"
+      ]
+    },
+    {
+      "text": {
+        "en": "Brown the chicken for 8-10 minutes, until it is fully cooked (74 °C inside).",
+        "es": "Dora el pollo durante 8-10 minutos, hasta que esté bien cocido (74 °C en el interior).",
+        "cat": "Daura el pollastre durant 8-10 minuts, fins que estigui ben cuit (74 °C a l'interior).",
+        "sv": "Bryne kycklingen i 8-10 minuter, tills den är genomstekt (74 °C invändigt)."
+      },
+      "ingredients": [
+        "chicken",
+        "olive_oil"
+      ]
+    },
+    {
+      "text": {
+        "en": "Lower to medium heat and pour in the sauce.",
+        "es": "Baja a fuego medio y vierte la salsa.",
+        "cat": "Baixa a foc mitjà i aboca-hi la salsa.",
+        "sv": "Sänk till medelvärme och häll i såsen."
+      },
+      "ingredients": [
+        "soy_sauce",
+        "honey",
+        "garlic",
+        "lemon",
+        "water"
+      ]
+    },
+    {
+      "text": {
+        "en": "Stir for 3-4 minutes until the sauce is thick, glossy and caramelized.",
+        "es": "Remueve durante 3-4 minutos hasta que la salsa quede espesa, brillante y caramelizada.",
+        "cat": "Remena durant 3-4 minuts fins que la salsa quedi espessa, brillant i caramel·litzada.",
+        "sv": "Rör om i 3-4 minuter tills såsen är tjock, blank och karamelliserad."
+      },
+      "ingredients": [
+        "soy_sauce",
+        "honey",
+        "garlic",
+        "lemon",
+        "water",
+        "chicken"
+      ]
+    }
+  ]
+}
