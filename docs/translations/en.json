@@ -1,6 +1,9 @@
 {
   "search_placeholder": "Search recipes...",
   "all_categories": "All",
+  "author_filter_label": "Recipes",
+  "author_filter_jaume": "Jaume's recipes",
+  "author_filter_all": "All recipes",
   "instructions": "Instructions",
   "thermomix": "Thermomix",
   "thermomix_speed": "Speed",

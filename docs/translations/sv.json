@@ -1,6 +1,9 @@
 {
   "search_placeholder": "Sök recept...",
   "all_categories": "Alla",
+  "author_filter_label": "Recept",
+  "author_filter_jaume": "Jaumes recept",
+  "author_filter_all": "Alla recept",
   "instructions": "Instruktioner",
   "thermomix": "Thermomix",
   "thermomix_speed": "Hastighet",

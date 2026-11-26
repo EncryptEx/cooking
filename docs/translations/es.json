@@ -1,6 +1,9 @@
 {
   "search_placeholder": "Buscar recetas...",
   "all_categories": "Todas",
+  "author_filter_label": "Recetas",
+  "author_filter_jaume": "Recetas de Jaume",
+  "author_filter_all": "Todas las recetas",
   "instructions": "Instrucciones",
   "thermomix": "Thermomix",
   "thermomix_speed": "Velocidad",

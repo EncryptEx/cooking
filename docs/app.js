@@ -24,7 +24,8 @@ function recipeApp() {
           const msg = document.createElement('pre');
           msg.style.cssText = 'padding:1rem;color:#b91c1c;white-space:pre-wrap';
           msg.textContent = `Failed to start the app: ${err.message}`;
-          document.body.prepend(msg)        } finally {
+          document.body.prepend(msg)
+        } finally {
           document.documentElement.classList.remove('app-loading', 'route-pending');
         }
       },
@@ -40,6 +41,7 @@ function recipeApp() {
         });
 
         this.loadHomeFilters();
+        this.loadAuthorFilter();
 
         await Promise.all([
           this.loadTranslations(),
@@ -53,6 +55,7 @@ function recipeApp() {
 
         this.$watch('searchQuery', () => this.saveHomeFilters());
         this.$watch('filterCategory', () => this.saveHomeFilters());
+        this.$watch('authorFilter', () => this.persistAuthorFilter());
 
         window.addEventListener('hashchange', () => this.handleRoute());
         await this.handleRoute();
