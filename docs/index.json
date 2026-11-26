@@ -172,6 +172,32 @@
   },
   {
     "title": {
+      "en": "Chicken with Soy and Honey",
+      "es": "Pollo con soja y miel",
+      "cat": "Pollastre amb soja i mel",
+      "sv": "Kyckling med soja och honung"
+    },
+    "categories": [
+      "mains"
+    ],
+    "path": "recipes/pollastre_soja_mel.json",
+    "image": "/images/pollastre_soja_mel/main.webp",
+    "author": "Jaume",
+    "development": false,
+    "ingredient_keys": [
+      "chicken",
+      "cornstarch",
+      "olive_oil",
+      "soy_sauce",
+      "honey",
+      "garlic",
+      "lemon",
+      "water",
+      "black_pepper"
+    ]
+  },
+  {
+    "title": {
       "en": "Chocolate Chip Cookies",
       "es": "Galletas con Pepitas de Chocolate",
       "cat": "Galetes amb Xips de Xocolata",
