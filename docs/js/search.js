@@ -1,5 +1,8 @@
 function recipeSearch() {
   const HOME_FILTERS_KEY = 'homeFilters';
+  const AUTHOR_FILTER_KEY = 'authorFilter';
+  const AUTHOR_QUERY_PARAM = 'authors';
+  const JAUME_AUTHOR = 'Jaume';
 
   return {
     loadHomeFilters() {
@@ -20,6 +23,44 @@ function recipeSearch() {
         searchQuery: this.searchQuery,
         filterCategory: this.filterCategory,
       }));
+    },
+
+    loadAuthorFilter() {
+      try {
+        const fromUrl = new URLSearchParams(location.search).get(AUTHOR_QUERY_PARAM);
+        if (fromUrl === 'all' || fromUrl === 'jaume') {
+          this.authorFilter = fromUrl;
+        } else {
+          const stored = localStorage.getItem(AUTHOR_FILTER_KEY);
+          if (stored === 'all' || stored === 'jaume') this.authorFilter = stored;
+        }
+      } catch (e) {
+        console.error('Failed to load author filter:', e);
+      }
+      this.persistAuthorFilter();
+    },
+
+    persistAuthorFilter() {
+      try {
+        localStorage.setItem(AUTHOR_FILTER_KEY, this.authorFilter);
+      } catch (e) {
+        console.error('Failed to save author filter:', e);
+      }
+
+      try {
+        const url = new URL(location.href);
+        if (this.authorFilter === 'all') url.searchParams.set(AUTHOR_QUERY_PARAM, 'all');
+        else url.searchParams.delete(AUTHOR_QUERY_PARAM);
+        const next = `${url.pathname}${url.search}${url.hash}`;
+        const current = `${location.pathname}${location.search}${location.hash}`;
+        if (next !== current) history.replaceState(history.state, '', next);
+      } catch (e) {
+        console.error('Failed to update author filter URL:', e);
+      }
+    },
+
+    setAuthorFilter(value) {
+      this.authorFilter = value === 'all' ? 'all' : 'jaume';
     },
 
     isIngredientSearch(query) {
@@ -64,8 +105,9 @@ function recipeSearch() {
 
         const cats = i.categories || [];
         const matchCat = this.filterCategory ? cats.includes(this.filterCategory) : true;
+        const matchAuthor = this.authorFilter === 'all' || i.author === JAUME_AUTHOR;
 
-        return matchSearch && matchCat;
+        return matchSearch && matchCat && matchAuthor;
       });
     },
   };

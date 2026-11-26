@@ -27,6 +27,31 @@
       </div>
     </div>
 
+    <div
+      class="flex flex-wrap justify-center gap-2 mb-5 md:mb-6"
+      role="group"
+      :aria-label="t('author_filter_label')"
+    >
+      <button
+        type="button"
+        @click="setAuthorFilter('jaume')"
+        :aria-pressed="authorFilter === 'jaume'"
+        class="px-3 py-1.5 rounded-full text-sm font-semibold shadow transition-colors duration-300"
+        :class="authorFilter === 'jaume' ? (darkMode ? 'bg-orange-300 text-orange-900 hover:bg-orange-200' : 'bg-indigo-600 text-white') : darkMode ? 'bg-gray-800 border border-gray-600 text-gray-100 hover:bg-gray-700' : 'bg-gray-100 border border-gray-300 text-gray-900 hover:bg-white'"
+      >
+        <span x-text="t('author_filter_jaume')"></span>
+      </button>
+      <button
+        type="button"
+        @click="setAuthorFilter('all')"
+        :aria-pressed="authorFilter === 'all'"
+        class="px-3 py-1.5 rounded-full text-sm font-semibold shadow transition-colors duration-300"
+        :class="authorFilter === 'all' ? (darkMode ? 'bg-orange-300 text-orange-900 hover:bg-orange-200' : 'bg-indigo-600 text-white') : darkMode ? 'bg-gray-800 border border-gray-600 text-gray-100 hover:bg-gray-700' : 'bg-gray-100 border border-gray-300 text-gray-900 hover:bg-white'"
+      >
+        <span x-text="t('author_filter_all')"></span>
+      </button>
+    </div>
+
     <div class="hidden md:flex flex-wrap justify-center gap-3 mb-10">
       <template x-for="category in categories" :key="category">
         <button
@@ -106,7 +131,29 @@
         </div>
 
         <div class="flex flex-col gap-3 overflow-y-auto overscroll-contain pb-6 touch-pan-y">
-          <p class="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider">Categories</p>
+          <p class="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider" x-text="t('author_filter_label')"></p>
+
+          <button
+            @click="setAuthorFilter('jaume')"
+            type="button"
+            class="w-full text-left px-4 py-3 rounded-xl font-semibold shadow-sm transition-colors duration-200 flex justify-between items-center"
+            :class="authorFilter === 'jaume' ? (darkMode ? 'bg-orange-300 text-orange-900 hover:bg-orange-200' : 'bg-indigo-500 text-white') : darkMode ? 'bg-gray-800 border border-gray-700 hover:bg-gray-700' : 'bg-gray-50 border border-gray-200 hover:bg-gray-100'"
+          >
+            <span x-text="t('author_filter_jaume')"></span>
+            <span x-show="authorFilter === 'jaume'" class="font-bold">✓</span>
+          </button>
+
+          <button
+            @click="setAuthorFilter('all')"
+            type="button"
+            class="w-full text-left px-4 py-3 rounded-xl font-semibold shadow-sm transition-colors duration-200 flex justify-between items-center"
+            :class="authorFilter === 'all' ? (darkMode ? 'bg-orange-300 text-orange-900 hover:bg-orange-200' : 'bg-indigo-600 text-white') : darkMode ? 'bg-gray-800 border border-gray-700 hover:bg-gray-700' : 'bg-gray-50 border border-gray-200 hover:bg-gray-100'"
+          >
+            <span x-text="t('author_filter_all')"></span>
+            <span x-show="authorFilter === 'all'" class="font-bold">✓</span>
+          </button>
+
+          <p class="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mt-2">Categories</p>
 
           <button
             @click="filterCategory = ''; isFilterOpen = false"

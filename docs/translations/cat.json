@@ -1,6 +1,9 @@
 {
   "search_placeholder": "Buscar receptes...",
   "all_categories": "Totes",
+  "author_filter_label": "Receptes",
+  "author_filter_jaume": "Receptes d'en Jaume",
+  "author_filter_all": "Totes les receptes",
   "instructions": "Instruccions",
   "thermomix": "Thermomix",
   "thermomix_speed": "Velocitat",

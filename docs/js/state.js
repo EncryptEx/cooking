@@ -5,6 +5,7 @@ function recipeAppState() {
     categories: [],
     searchQuery: '',
     filterCategory: '',
+    authorFilter: 'jaume',
     selectedRecipe: null,
     selectedVariation: '',
     thermomixEnabled: false,
